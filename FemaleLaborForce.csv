@@ -1,14 +1,10 @@
 Country Name,Country Code,Region,Year,Percentage
-Aruba,ABW,Latin America & Caribbean,2010,NA
 Afghanistan,AFG,South Asia,2010,15.47916701
 Angola,AGO,Sub-Saharan Africa,2010,49.85011095
 Albania,ALB,Europe & Central Asia,2010,42.44407193
-Andorra,AND,Europe & Central Asia,2010,NA
 United Arab Emirates,ARE,Middle East & North Africa,2010,11.41312228
 Argentina,ARG,Latin America & Caribbean,2010,41.38429108
 Armenia,ARM,Europe & Central Asia,2010,45.70266405
-American Samoa,ASM,East Asia & Pacific,2010,NA
-Antigua and Barbuda,ATG,Latin America & Caribbean,2010,NA
 Australia,AUS,East Asia & Pacific,2010,45.08707271
 Austria,AUT,Europe & Central Asia,2010,46.14037783
 Azerbaijan,AZE,Europe & Central Asia,2010,49.33006225
@@ -23,7 +19,6 @@ Bahamas,BHS,Latin America & Caribbean,2010,48.07666718
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2010,38.34990815
 Belarus,BLR,Europe & Central Asia,2010,49.64148732
 Belize,BLZ,Latin America & Caribbean,2010,36.78536923
-Bermuda,BMU,North America,2010,NA
 Bolivia,BOL,Latin America & Caribbean,2010,43.08651182
 Brazil,BRA,Latin America & Caribbean,2010,42.35058257
 Barbados,BRB,Latin America & Caribbean,2010,49.24350688
@@ -45,13 +40,10 @@ Comoros,COM,Sub-Saharan Africa,2010,37.76800068
 Cabo Verde,CPV,Sub-Saharan Africa,2010,40.2844378
 Costa Rica,CRI,Latin America & Caribbean,2010,37.4125685
 Cuba,CUB,Latin America & Caribbean,2010,38.70780403
-Curacao,CUW,Latin America & Caribbean,2010,NA
-Cayman Islands,CYM,Latin America & Caribbean,2010,NA
 Cyprus,CYP,Europe & Central Asia,2010,45.34408048
 Czech Republic,CZE,Europe & Central Asia,2010,43.27633526
 Germany,DEU,Europe & Central Asia,2010,45.57997729
 Djibouti,DJI,Middle East & North Africa,2010,38.77363255
-Dominica,DMA,Latin America & Caribbean,2010,NA
 Denmark,DNK,Europe & Central Asia,2010,47.01634694
 Dominican Republic,DOM,Latin America & Caribbean,2010,36.63268905
 Algeria,DZA,Middle East & North Africa,2010,16.88280541
@@ -64,20 +56,15 @@ Ethiopia,ETH,Sub-Saharan Africa,2010,46.02128507
 Finland,FIN,Europe & Central Asia,2010,48.05656572
 Fiji,FJI,East Asia & Pacific,2010,34.51434299
 France,FRA,Europe & Central Asia,2010,47.25174378
-Faroe Islands,FRO,Europe & Central Asia,2010,NA
-Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2010,NA
 Gabon,GAB,Sub-Saharan Africa,2010,40.12218905
 United Kingdom,GBR,Europe & Central Asia,2010,46.02755442
 Georgia,GEO,Europe & Central Asia,2010,45.50316294
 Ghana,GHA,Sub-Saharan Africa,2010,47.41442421
-Gibraltar,GIB,Europe & Central Asia,2010,NA
 Guinea,GIN,Sub-Saharan Africa,2010,54.16008539
 Gambia - The,GMB,Sub-Saharan Africa,2010,43.21711206
 Guinea -Bissau,GNB,Sub-Saharan Africa,2010,47.9618753
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2010,37.76232162
 Greece,GRC,Europe & Central Asia,2010,42.32738314
-Grenada,GRD,Latin America & Caribbean,2010,NA
-Greenland,GRL,Europe & Central Asia,2010,NA
 Guatemala,GTM,Latin America & Caribbean,2010,34.3499375
 Guam,GUM,East Asia & Pacific,2010,40.88136927
 Guyana,GUY,Latin America & Caribbean,2010,35.14991882
@@ -87,9 +74,7 @@ Croatia,HRV,Europe & Central Asia,2010,45.96193144
 Haiti,HTI,Latin America & Caribbean,2010,47.40190977
 Hungary,HUN,Europe & Central Asia,2010,46.15031451
 Indonesia,IDN,East Asia & Pacific,2010,38.14551069
-Isle of Man,IMN,Europe & Central Asia,2010,NA
 India,IND,South Asia,2010,23.03253742
-Not classified,INX,South Asia,2010,NA
 Ireland,IRL,Europe & Central Asia,2010,44.79719535
 Iran - Islamic Rep.,IRN,Middle East & North Africa,2010,18.21259309
 Iraq,IRQ,Middle East & North Africa,2010,14.30134717
@@ -103,8 +88,6 @@ Kazakhstan,KAZ,Europe & Central Asia,2010,48.882599
 Kenya,KEN,Sub-Saharan Africa,2010,47.82359206
 Kyrgyz Republic,KGZ,Europe & Central Asia,2010,41.72372256
 Cambodia,KHM,East Asia & Pacific,2010,50.30323314
-Kiribati,KIR,East Asia & Pacific,2010,NA
-St. Kitts and Nevis,KNA,Latin America & Caribbean,2010,NA
 Korea - Rep.,KOR,East Asia & Pacific,2010,40.97277438
 Kuwait,KWT,Middle East & North Africa,2010,26.85197921
 Lao PDR,LAO,East Asia & Pacific,2010,50.2313216
@@ -112,28 +95,23 @@ Lebanon,LBN,Middle East & North Africa,2010,23.77098407
 Liberia,LBR,Sub-Saharan Africa,2010,46.86791497
 Libya,LBY,Middle East & North Africa,2010,33.97254971
 St. Lucia,LCA,Latin America & Caribbean,2010,45.59136979
-Liechtenstein,LIE,Europe & Central Asia,2010,NA
 Sri Lanka,LKA,South Asia,2010,32.69381959
 Lesotho,LSO,Sub-Saharan Africa,2010,46.34146066
 Lithuania,LTU,Europe & Central Asia,2010,50.63027068
 Luxembourg,LUX,Europe & Central Asia,2010,43.44942096
 Latvia,LVA,Europe & Central Asia,2010,50.29082374
 Macao SAR - China,MAC,East Asia & Pacific,2010,48.47357472
-St. Martin (French part),MAF,Latin America & Caribbean,2010,NA
 Morocco,MAR,Middle East & North Africa,2010,26.42519667
-Monaco,MCO,Europe & Central Asia,2010,NA
 Moldova,MDA,Europe & Central Asia,2010,48.59405925
 Madagascar,MDG,Sub-Saharan Africa,2010,49.41226138
 Maldives,MDV,South Asia,2010,30.46105864
 Mexico,MEX,Latin America & Caribbean,2010,36.81753462
-Marshall Islands,MHL,East Asia & Pacific,2010,NA
 North Macedonia,MKD,Europe & Central Asia,2010,38.70853812
 Mali,MLI,Sub-Saharan Africa,2010,43.19871982
 Malta,MLT,Middle East & North Africa,2010,34.39077145
 Myanmar,MMR,East Asia & Pacific,2010,41.99356492
 Montenegro,MNE,Europe & Central Asia,2010,43.91858451
 Mongolia,MNG,East Asia & Pacific,2010,45.68624371
-Northern Mariana Islands,MNP,East Asia & Pacific,2010,NA
 Mozambique,MOZ,Sub-Saharan Africa,2010,53.44331301
 Mauritania,MRT,Sub-Saharan Africa,2010,30.77326393
 Mauritius,MUS,Sub-Saharan Africa,2010,37.49264449
@@ -147,14 +125,12 @@ Nicaragua,NIC,Latin America & Caribbean,2010,37.81335489
 Netherlands,NLD,Europe & Central Asia,2010,45.66419416
 Norway,NOR,Europe & Central Asia,2010,47.30570888
 Nepal,NPL,South Asia,2010,49.5054698
-Nauru,NRU,East Asia & Pacific,2010,NA
 New Zealand,NZL,East Asia & Pacific,2010,46.68085035
 Oman,OMN,Middle East & North Africa,2010,15.92458304
 Pakistan,PAK,South Asia,2010,20.52996366
 Panama,PAN,Latin America & Caribbean,2010,37.11684352
 Peru,PER,Latin America & Caribbean,2010,46.21299362
 Philippines,PHL,East Asia & Pacific,2010,39.03438628
-Palau,PLW,East Asia & Pacific,2010,NA
 Papua New Guinea,PNG,East Asia & Pacific,2010,48.46236875
 Poland,POL,Europe & Central Asia,2010,45.04411554
 Puerto Rico,PRI,Latin America & Caribbean,2010,42.14732218
@@ -174,7 +150,6 @@ Singapore,SGP,East Asia & Pacific,2010,40.28451489
 Solomon Islands,SLB,East Asia & Pacific,2010,48.82329553
 Sierra Leone,SLE,Sub-Saharan Africa,2010,49.56454382
 El Salvador,SLV,Latin America & Caribbean,2010,41.7088696
-San Marino,SMR,Europe & Central Asia,2010,NA
 Somalia,SOM,Sub-Saharan Africa,2010,21.94436038
 Serbia,SRB,Europe & Central Asia,2010,43.50497331
 South Sudan,SSD,Sub-Saharan Africa,2010,48.63512722
@@ -184,10 +159,7 @@ Slovak Republic,SVK,Europe & Central Asia,2010,44.78378689
 Slovenia,SVN,Europe & Central Asia,2010,45.53901868
 Sweden,SWE,Europe & Central Asia,2010,47.14521773
 Eswatini,SWZ,Sub-Saharan Africa,2010,49.08330732
-Sint Maarten (Dutch part),SXM,Latin America & Caribbean,2010,NA
-Seychelles,SYC,Sub-Saharan Africa,2010,NA
 Syrian Arab Republic,SYR,Middle East & North Africa,2010,15.2900751
-Turks and Caicos Islands,TCA,Latin America & Caribbean,2010,NA
 Chad,TCD,Sub-Saharan Africa,2010,45.03028399
 Togo,TGO,Sub-Saharan Africa,2010,47.39676222
 Thailand,THA,East Asia & Pacific,2010,45.90214914
@@ -198,7 +170,6 @@ Tonga,TON,East Asia & Pacific,2010,39.68604583
 Trinidad and Tobago,TTO,Latin America & Caribbean,2010,41.67404137
 Tunisia,TUN,Middle East & North Africa,2010,26.58241112
 Turkey,TUR,Europe & Central Asia,2010,29.18189256
-Tuvalu,TUV,East Asia & Pacific,2010,NA
 Tanzania,TZA,Sub-Saharan Africa,2010,49.16002514
 Uganda,UGA,Sub-Saharan Africa,2010,48.39779365
 Ukraine,UKR,Europe & Central Asia,2010,48.17147218
@@ -207,26 +178,20 @@ United States,USA,North America,2010,46.18396637
 Uzbekistan,UZB,Europe & Central Asia,2010,41.46007975
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2010,40.27623079
 Venezuela - RB,VEN,Latin America & Caribbean,2010,39.29948173
-British Virgin Islands,VGB,Latin America & Caribbean,2010,NA
 Virgin Islands (U.S.),VIR,Latin America & Caribbean,2010,49.89600817
 Vietnam,VNM,East Asia & Pacific,2010,47.68098567
 Vanuatu,VUT,East Asia & Pacific,2010,43.54859316
 Samoa,WSM,East Asia & Pacific,2010,34.72387291
-Kosovo,XKX,Europe & Central Asia,2010,NA
 Yemen - Rep.,YEM,Middle East & North Africa,2010,12.74138994
 South Africa,ZAF,Sub-Saharan Africa,2010,43.74645432
 Zambia,ZMB,Sub-Saharan Africa,2010,47.68078402
 Zimbabwe,ZWE,Sub-Saharan Africa,2010,50.72333928
-Aruba,ABW,Latin America & Caribbean,2011,NA
 Afghanistan,AFG,South Asia,2011,15.75766655
 Angola,AGO,Sub-Saharan Africa,2011,49.86651339
 Albania,ALB,Europe & Central Asia,2011,44.17154525
-Andorra,AND,Europe & Central Asia,2011,NA
 United Arab Emirates,ARE,Middle East & North Africa,2011,12.0696844
 Argentina,ARG,Latin America & Caribbean,2011,41.44726564
 Armenia,ARM,Europe & Central Asia,2011,47.0284023
-American Samoa,ASM,East Asia & Pacific,2011,NA
-Antigua and Barbuda,ATG,Latin America & Caribbean,2011,NA
 Australia,AUS,East Asia & Pacific,2011,45.28489568
 Austria,AUT,Europe & Central Asia,2011,46.33618397
 Azerbaijan,AZE,Europe & Central Asia,2011,49.09422501
@@ -241,7 +206,6 @@ Bahamas,BHS,Latin America & Caribbean,2011,48.07964646
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2011,38.72002781
 Belarus,BLR,Europe & Central Asia,2011,49.67459946
 Belize,BLZ,Latin America & Caribbean,2011,37.00958063
-Bermuda,BMU,North America,2011,NA
 Bolivia,BOL,Latin America & Caribbean,2011,42.93228182
 Brazil,BRA,Latin America & Caribbean,2011,41.99413069
 Barbados,BRB,Latin America & Caribbean,2011,49.14865024
@@ -263,13 +227,10 @@ Comoros,COM,Sub-Saharan Africa,2011,37.48741038
 Cabo Verde,CPV,Sub-Saharan Africa,2011,40.69932367
 Costa Rica,CRI,Latin America & Caribbean,2011,37.86946776
 Cuba,CUB,Latin America & Caribbean,2011,38.8172006
-Curacao,CUW,Latin America & Caribbean,2011,NA
-Cayman Islands,CYM,Latin America & Caribbean,2011,NA
 Cyprus,CYP,Europe & Central Asia,2011,45.33587442
 Czech Republic,CZE,Europe & Central Asia,2011,43.51455672
 Germany,DEU,Europe & Central Asia,2011,45.84952091
 Djibouti,DJI,Middle East & North Africa,2011,38.80762606
-Dominica,DMA,Latin America & Caribbean,2011,NA
 Denmark,DNK,Europe & Central Asia,2011,47.11213296
 Dominican Republic,DOM,Latin America & Caribbean,2011,37.6357344
 Algeria,DZA,Middle East & North Africa,2011,17.83184886
@@ -282,20 +243,15 @@ Ethiopia,ETH,Sub-Saharan Africa,2011,46.00437026
 Finland,FIN,Europe & Central Asia,2011,47.85457574
 Fiji,FJI,East Asia & Pacific,2011,35.36578038
 France,FRA,Europe & Central Asia,2011,47.35076231
-Faroe Islands,FRO,Europe & Central Asia,2011,NA
-Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2011,NA
 Gabon,GAB,Sub-Saharan Africa,2011,40.2252927
 United Kingdom,GBR,Europe & Central Asia,2011,46.11597109
 Georgia,GEO,Europe & Central Asia,2011,45.46123544
 Ghana,GHA,Sub-Saharan Africa,2011,47.20727003
-Gibraltar,GIB,Europe & Central Asia,2011,NA
 Guinea,GIN,Sub-Saharan Africa,2011,54.21550747
 Gambia - The,GMB,Sub-Saharan Africa,2011,43.37048044
 Guinea -Bissau,GNB,Sub-Saharan Africa,2011,47.93658904
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2011,37.57733594
 Greece,GRC,Europe & Central Asia,2011,42.65122393
-Grenada,GRD,Latin America & Caribbean,2011,NA
-Greenland,GRL,Europe & Central Asia,2011,NA
 Guatemala,GTM,Latin America & Caribbean,2011,34.24481076
 Guam,GUM,East Asia & Pacific,2011,40.87412998
 Guyana,GUY,Latin America & Caribbean,2011,35.71749288
@@ -305,9 +261,7 @@ Croatia,HRV,Europe & Central Asia,2011,45.08875973
 Haiti,HTI,Latin America & Caribbean,2011,47.64018056
 Hungary,HUN,Europe & Central Asia,2011,46.03002328
 Indonesia,IDN,East Asia & Pacific,2011,37.99995569
-Isle of Man,IMN,Europe & Central Asia,2011,NA
 India,IND,South Asia,2011,22.11797747
-Not classified,INX,South Asia,2011,NA
 Ireland,IRL,Europe & Central Asia,2011,45.07367647
 Iran - Islamic Rep.,IRN,Middle East & North Africa,2011,17.65292888
 Iraq,IRQ,Middle East & North Africa,2011,14.18744453
@@ -321,8 +275,6 @@ Kazakhstan,KAZ,Europe & Central Asia,2011,48.86491804
 Kenya,KEN,Sub-Saharan Africa,2011,47.96935201
 Kyrgyz Republic,KGZ,Europe & Central Asia,2011,41.81557986
 Cambodia,KHM,East Asia & Pacific,2011,50.28677221
-Kiribati,KIR,East Asia & Pacific,2011,NA
-St. Kitts and Nevis,KNA,Latin America & Caribbean,2011,NA
 Korea - Rep.,KOR,East Asia & Pacific,2011,41.01109568
 Kuwait,KWT,Middle East & North Africa,2011,26.95237425
 Lao PDR,LAO,East Asia & Pacific,2011,50.01216043
@@ -330,28 +282,23 @@ Lebanon,LBN,Middle East & North Africa,2011,23.93717011
 Liberia,LBR,Sub-Saharan Africa,2011,46.88106729
 Libya,LBY,Middle East & North Africa,2011,34.02900953
 St. Lucia,LCA,Latin America & Caribbean,2011,45.84539987
-Liechtenstein,LIE,Europe & Central Asia,2011,NA
 Sri Lanka,LKA,South Asia,2011,32.96955852
 Lesotho,LSO,Sub-Saharan Africa,2011,46.0352638
 Lithuania,LTU,Europe & Central Asia,2011,50.40311335
 Luxembourg,LUX,Europe & Central Asia,2011,43.94417466
 Latvia,LVA,Europe & Central Asia,2011,49.79868584
 Macao SAR - China,MAC,East Asia & Pacific,2011,48.76584117
-St. Martin (French part),MAF,Latin America & Caribbean,2011,NA
 Morocco,MAR,Middle East & North Africa,2011,26.36875232
-Monaco,MCO,Europe & Central Asia,2011,NA
 Moldova,MDA,Europe & Central Asia,2011,48.61782072
 Madagascar,MDG,Sub-Saharan Africa,2011,49.44870088
 Maldives,MDV,South Asia,2011,29.64416506
 Mexico,MEX,Latin America & Caribbean,2011,37.07751477
-Marshall Islands,MHL,East Asia & Pacific,2011,NA
 North Macedonia,MKD,Europe & Central Asia,2011,39.40717695
 Mali,MLI,Sub-Saharan Africa,2011,43.09368519
 Malta,MLT,Middle East & North Africa,2011,35.11894859
 Myanmar,MMR,East Asia & Pacific,2011,41.93032146
 Montenegro,MNE,Europe & Central Asia,2011,43.90482855
 Mongolia,MNG,East Asia & Pacific,2011,45.59253236
-Northern Mariana Islands,MNP,East Asia & Pacific,2011,NA
 Mozambique,MOZ,Sub-Saharan Africa,2011,53.22305458
 Mauritania,MRT,Sub-Saharan Africa,2011,30.91865044
 Mauritius,MUS,Sub-Saharan Africa,2011,37.23688949
@@ -365,14 +312,12 @@ Nicaragua,NIC,Latin America & Caribbean,2011,37.94076224
 Netherlands,NLD,Europe & Central Asia,2011,45.91000261
 Norway,NOR,Europe & Central Asia,2011,47.46077143
 Nepal,NPL,South Asia,2011,50.48780051
-Nauru,NRU,East Asia & Pacific,2011,NA
 New Zealand,NZL,East Asia & Pacific,2011,46.81000422
 Oman,OMN,Middle East & North Africa,2011,15.18782046
 Pakistan,PAK,South Asia,2011,20.87456651
 Panama,PAN,Latin America & Caribbean,2011,36.5207969
 Peru,PER,Latin America & Caribbean,2011,46.06319539
 Philippines,PHL,East Asia & Pacific,2011,39.20376848
-Palau,PLW,East Asia & Pacific,2011,NA
 Papua New Guinea,PNG,East Asia & Pacific,2011,48.43379151
 Poland,POL,Europe & Central Asia,2011,44.96635224
 Puerto Rico,PRI,Latin America & Caribbean,2011,42.15526043
@@ -392,7 +337,6 @@ Singapore,SGP,East Asia & Pacific,2011,40.5223075
 Solomon Islands,SLB,East Asia & Pacific,2011,48.83693392
 Sierra Leone,SLE,Sub-Saharan Africa,2011,49.54410732
 El Salvador,SLV,Latin America & Caribbean,2011,41.60581919
-San Marino,SMR,Europe & Central Asia,2011,NA
 Somalia,SOM,Sub-Saharan Africa,2011,22.01372723
 Serbia,SRB,Europe & Central Asia,2011,43.29915169
 South Sudan,SSD,Sub-Saharan Africa,2011,48.67617193
@@ -402,10 +346,7 @@ Slovak Republic,SVK,Europe & Central Asia,2011,44.43891381
 Slovenia,SVN,Europe & Central Asia,2011,45.67862373
 Sweden,SWE,Europe & Central Asia,2011,47.32725663
 Eswatini,SWZ,Sub-Saharan Africa,2011,49.15189003
-Sint Maarten (Dutch part),SXM,Latin America & Caribbean,2011,NA
-Seychelles,SYC,Sub-Saharan Africa,2011,NA
 Syrian Arab Republic,SYR,Middle East & North Africa,2011,15.41674381
-Turks and Caicos Islands,TCA,Latin America & Caribbean,2011,NA
 Chad,TCD,Sub-Saharan Africa,2011,45.05157158
 Togo,TGO,Sub-Saharan Africa,2011,47.40468555
 Thailand,THA,East Asia & Pacific,2011,46.46636265
@@ -416,7 +357,6 @@ Tonga,TON,East Asia & Pacific,2011,39.85071964
 Trinidad and Tobago,TTO,Latin America & Caribbean,2011,41.657306
 Tunisia,TUN,Middle East & North Africa,2011,26.43854282
 Turkey,TUR,Europe & Central Asia,2011,29.894469
-Tuvalu,TUV,East Asia & Pacific,2011,NA
 Tanzania,TZA,Sub-Saharan Africa,2011,48.95169046
 Uganda,UGA,Sub-Saharan Africa,2011,48.51818261
 Ukraine,UKR,Europe & Central Asia,2011,47.8123671
@@ -425,26 +365,20 @@ United States,USA,North America,2011,46.11519429
 Uzbekistan,UZB,Europe & Central Asia,2011,41.2905186
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2011,40.28900454
 Venezuela - RB,VEN,Latin America & Caribbean,2011,39.5038308
-British Virgin Islands,VGB,Latin America & Caribbean,2011,NA
 Virgin Islands (U.S.),VIR,Latin America & Caribbean,2011,49.63295494
 Vietnam,VNM,East Asia & Pacific,2011,47.63280421
 Vanuatu,VUT,East Asia & Pacific,2011,43.55503068
 Samoa,WSM,East Asia & Pacific,2011,34.77270496
-Kosovo,XKX,Europe & Central Asia,2011,NA
 Yemen - Rep.,YEM,Middle East & North Africa,2011,11.4436776
 South Africa,ZAF,Sub-Saharan Africa,2011,44.24660805
 Zambia,ZMB,Sub-Saharan Africa,2011,47.72475644
 Zimbabwe,ZWE,Sub-Saharan Africa,2011,50.82054598
-Aruba,ABW,Latin America & Caribbean,2012,NA
 Afghanistan,AFG,South Asia,2012,16.11536817
 Angola,AGO,Sub-Saharan Africa,2012,49.91284164
 Albania,ALB,Europe & Central Asia,2012,42.30260229
-Andorra,AND,Europe & Central Asia,2012,NA
 United Arab Emirates,ARE,Middle East & North Africa,2012,12.96648886
 Argentina,ARG,Latin America & Caribbean,2012,41.59410293
 Armenia,ARM,Europe & Central Asia,2012,47.11393684
-American Samoa,ASM,East Asia & Pacific,2012,NA
-Antigua and Barbuda,ATG,Latin America & Caribbean,2012,NA
 Australia,AUS,East Asia & Pacific,2012,45.43555977
 Austria,AUT,Europe & Central Asia,2012,46.51370274
 Azerbaijan,AZE,Europe & Central Asia,2012,48.959874
@@ -459,7 +393,6 @@ Bahamas,BHS,Latin America & Caribbean,2012,48.17584365
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2012,38.58963085
 Belarus,BLR,Europe & Central Asia,2012,49.68296371
 Belize,BLZ,Latin America & Caribbean,2012,37.21676871
-Bermuda,BMU,North America,2012,NA
 Bolivia,BOL,Latin America & Caribbean,2012,42.05202187
 Brazil,BRA,Latin America & Caribbean,2012,42.26633589
 Barbados,BRB,Latin America & Caribbean,2012,48.96037222
@@ -481,13 +414,10 @@ Comoros,COM,Sub-Saharan Africa,2012,37.23293574
 Cabo Verde,CPV,Sub-Saharan Africa,2012,41.16474821
 Costa Rica,CRI,Latin America & Caribbean,2012,39.6521395
 Cuba,CUB,Latin America & Caribbean,2012,38.94400916
-Curacao,CUW,Latin America & Caribbean,2012,NA
-Cayman Islands,CYM,Latin America & Caribbean,2012,NA
 Cyprus,CYP,Europe & Central Asia,2012,45.05915904
 Czech Republic,CZE,Europe & Central Asia,2012,43.74525378
 Germany,DEU,Europe & Central Asia,2012,45.86876321
 Djibouti,DJI,Middle East & North Africa,2012,38.91773534
-Dominica,DMA,Latin America & Caribbean,2012,NA
 Denmark,DNK,Europe & Central Asia,2012,47.32194876
 Dominican Republic,DOM,Latin America & Caribbean,2012,38.00935964
 Algeria,DZA,Middle East & North Africa,2012,18.83281677
@@ -500,20 +430,15 @@ Ethiopia,ETH,Sub-Saharan Africa,2012,45.98868876
 Finland,FIN,Europe & Central Asia,2012,48.06262128
 Fiji,FJI,East Asia & Pacific,2012,35.05753233
 France,FRA,Europe & Central Asia,2012,47.37550146
-Faroe Islands,FRO,Europe & Central Asia,2012,NA
-Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2012,NA
 Gabon,GAB,Sub-Saharan Africa,2012,40.30510891
 United Kingdom,GBR,Europe & Central Asia,2012,46.12348528
 Georgia,GEO,Europe & Central Asia,2012,45.19640436
 Ghana,GHA,Sub-Saharan Africa,2012,46.99173951
-Gibraltar,GIB,Europe & Central Asia,2012,NA
 Guinea,GIN,Sub-Saharan Africa,2012,54.27731341
 Gambia - The,GMB,Sub-Saharan Africa,2012,43.52971048
 Guinea -Bissau,GNB,Sub-Saharan Africa,2012,47.89495788
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2012,37.43173499
 Greece,GRC,Europe & Central Asia,2012,43.12175674
-Grenada,GRD,Latin America & Caribbean,2012,NA
-Greenland,GRL,Europe & Central Asia,2012,NA
 Guatemala,GTM,Latin America & Caribbean,2012,36.29989366
 Guam,GUM,East Asia & Pacific,2012,40.88494192
 Guyana,GUY,Latin America & Caribbean,2012,36.22545586
@@ -523,9 +448,7 @@ Croatia,HRV,Europe & Central Asia,2012,45.41734499
 Haiti,HTI,Latin America & Caribbean,2012,47.7352327
 Hungary,HUN,Europe & Central Asia,2012,46.20632426
 Indonesia,IDN,East Asia & Pacific,2012,38.10555953
-Isle of Man,IMN,Europe & Central Asia,2012,NA
 India,IND,South Asia,2012,21.22676722
-Not classified,INX,South Asia,2012,NA
 Ireland,IRL,Europe & Central Asia,2012,45.20236204
 Iran - Islamic Rep.,IRN,Middle East & North Africa,2012,17.08764114
 Iraq,IRQ,Middle East & North Africa,2012,14.09169761
@@ -539,8 +462,6 @@ Kazakhstan,KAZ,Europe & Central Asia,2012,48.84072797
 Kenya,KEN,Sub-Saharan Africa,2012,48.10282157
 Kyrgyz Republic,KGZ,Europe & Central Asia,2012,41.37246867
 Cambodia,KHM,East Asia & Pacific,2012,49.53033616
-Kiribati,KIR,East Asia & Pacific,2012,NA
-St. Kitts and Nevis,KNA,Latin America & Caribbean,2012,NA
 Korea - Rep.,KOR,East Asia & Pacific,2012,41.07185682
 Kuwait,KWT,Middle East & North Africa,2012,27.05219706
 Lao PDR,LAO,East Asia & Pacific,2012,49.76889176
@@ -548,28 +469,23 @@ Lebanon,LBN,Middle East & North Africa,2012,24.05515517
 Liberia,LBR,Sub-Saharan Africa,2012,46.91046241
 Libya,LBY,Middle East & North Africa,2012,34.08205102
 St. Lucia,LCA,Latin America & Caribbean,2012,46.1113243
-Liechtenstein,LIE,Europe & Central Asia,2012,NA
 Sri Lanka,LKA,South Asia,2012,32.05865699
 Lesotho,LSO,Sub-Saharan Africa,2012,45.6991737
 Lithuania,LTU,Europe & Central Asia,2012,50.62733546
 Luxembourg,LUX,Europe & Central Asia,2012,44.30553868
 Latvia,LVA,Europe & Central Asia,2012,49.91759033
 Macao SAR - China,MAC,East Asia & Pacific,2012,48.49225474
-St. Martin (French part),MAF,Latin America & Caribbean,2012,NA
 Morocco,MAR,Middle East & North Africa,2012,25.89272065
-Monaco,MCO,Europe & Central Asia,2012,NA
 Moldova,MDA,Europe & Central Asia,2012,48.99857509
 Madagascar,MDG,Sub-Saharan Africa,2012,49.48935016
 Maldives,MDV,South Asia,2012,28.80291623
 Mexico,MEX,Latin America & Caribbean,2012,37.56467736
-Marshall Islands,MHL,East Asia & Pacific,2012,NA
 North Macedonia,MKD,Europe & Central Asia,2012,39.25264861
 Mali,MLI,Sub-Saharan Africa,2012,43.02124105
 Malta,MLT,Middle East & North Africa,2012,37.19796933
 Myanmar,MMR,East Asia & Pacific,2012,41.85691708
 Montenegro,MNE,Europe & Central Asia,2012,44.57693969
 Mongolia,MNG,East Asia & Pacific,2012,46.05057404
-Northern Mariana Islands,MNP,East Asia & Pacific,2012,NA
 Mozambique,MOZ,Sub-Saharan Africa,2012,52.99244322
 Mauritania,MRT,Sub-Saharan Africa,2012,31.08696746
 Mauritius,MUS,Sub-Saharan Africa,2012,37.42010824
@@ -583,14 +499,12 @@ Nicaragua,NIC,Latin America & Caribbean,2012,38.06111623
 Netherlands,NLD,Europe & Central Asia,2012,45.99438794
 Norway,NOR,Europe & Central Asia,2012,47.26258326
 Nepal,NPL,South Asia,2012,51.72764353
-Nauru,NRU,East Asia & Pacific,2012,NA
 New Zealand,NZL,East Asia & Pacific,2012,47.02211807
 Oman,OMN,Middle East & North Africa,2012,14.49954461
 Pakistan,PAK,South Asia,2012,20.97107916
 Panama,PAN,Latin America & Caribbean,2012,37.44729342
 Peru,PER,Latin America & Caribbean,2012,46.03224394
 Philippines,PHL,East Asia & Pacific,2012,39.17176023
-Palau,PLW,East Asia & Pacific,2012,NA
 Papua New Guinea,PNG,East Asia & Pacific,2012,48.43794983
 Poland,POL,Europe & Central Asia,2012,45.01063905
 Puerto Rico,PRI,Latin America & Caribbean,2012,42.16463931
@@ -610,7 +524,6 @@ Singapore,SGP,East Asia & Pacific,2012,40.73624536
 Solomon Islands,SLB,East Asia & Pacific,2012,48.81687725
 Sierra Leone,SLE,Sub-Saharan Africa,2012,49.51863428
 El Salvador,SLV,Latin America & Caribbean,2012,42.00740185
-San Marino,SMR,Europe & Central Asia,2012,NA
 Somalia,SOM,Sub-Saharan Africa,2012,22.18158921
 Serbia,SRB,Europe & Central Asia,2012,43.32039914
 South Sudan,SSD,Sub-Saharan Africa,2012,48.73788097
@@ -620,10 +533,7 @@ Slovak Republic,SVK,Europe & Central Asia,2012,44.57638929
 Slovenia,SVN,Europe & Central Asia,2012,45.87803512
 Sweden,SWE,Europe & Central Asia,2012,47.44308615
 Eswatini,SWZ,Sub-Saharan Africa,2012,49.15169344
-Sint Maarten (Dutch part),SXM,Latin America & Caribbean,2012,NA
-Seychelles,SYC,Sub-Saharan Africa,2012,NA
 Syrian Arab Republic,SYR,Middle East & North Africa,2012,15.58391723
-Turks and Caicos Islands,TCA,Latin America & Caribbean,2012,NA
 Chad,TCD,Sub-Saharan Africa,2012,45.09794609
 Togo,TGO,Sub-Saharan Africa,2012,47.4539607
 Thailand,THA,East Asia & Pacific,2012,46.23219708
@@ -634,7 +544,6 @@ Tonga,TON,East Asia & Pacific,2012,40.05734983
 Trinidad and Tobago,TTO,Latin America & Caribbean,2012,42.22846808
 Tunisia,TUN,Middle East & North Africa,2012,26.93184566
 Turkey,TUR,Europe & Central Asia,2012,30.5017613
-Tuvalu,TUV,East Asia & Pacific,2012,NA
 Tanzania,TZA,Sub-Saharan Africa,2012,48.71867532
 Uganda,UGA,Sub-Saharan Africa,2012,48.63439838
 Ukraine,UKR,Europe & Central Asia,2012,47.30679744
@@ -643,26 +552,20 @@ United States,USA,North America,2012,45.94030501
 Uzbekistan,UZB,Europe & Central Asia,2012,41.08458651
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2012,40.41306577
 Venezuela - RB,VEN,Latin America & Caribbean,2012,39.73227773
-British Virgin Islands,VGB,Latin America & Caribbean,2012,NA
 Virgin Islands (U.S.),VIR,Latin America & Caribbean,2012,49.02193903
 Vietnam,VNM,East Asia & Pacific,2012,47.81825653
 Vanuatu,VUT,East Asia & Pacific,2012,43.53889003
 Samoa,WSM,East Asia & Pacific,2012,34.63570795
-Kosovo,XKX,Europe & Central Asia,2012,NA
 Yemen - Rep.,YEM,Middle East & North Africa,2012,10.26153054
 South Africa,ZAF,Sub-Saharan Africa,2012,44.18014086
 Zambia,ZMB,Sub-Saharan Africa,2012,47.76474154
 Zimbabwe,ZWE,Sub-Saharan Africa,2012,50.87409175
-Aruba,ABW,Latin America & Caribbean,2013,NA
 Afghanistan,AFG,South Asia,2013,16.96331396
 Angola,AGO,Sub-Saharan Africa,2013,49.95648198
 Albania,ALB,Europe & Central Asia,2013,41.18298528
-Andorra,AND,Europe & Central Asia,2013,NA
 United Arab Emirates,ARE,Middle East & North Africa,2013,14.03045613
 Argentina,ARG,Latin America & Caribbean,2013,41.44011389
 Armenia,ARM,Europe & Central Asia,2013,47.18450185
-American Samoa,ASM,East Asia & Pacific,2013,NA
-Antigua and Barbuda,ATG,Latin America & Caribbean,2013,NA
 Australia,AUS,East Asia & Pacific,2013,45.55650978
 Austria,AUT,Europe & Central Asia,2013,46.58224397
 Azerbaijan,AZE,Europe & Central Asia,2013,48.89531965
@@ -677,7 +580,6 @@ Bahamas,BHS,Latin America & Caribbean,2013,48.07359997
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2013,38.81431995
 Belarus,BLR,Europe & Central Asia,2013,49.67594577
 Belize,BLZ,Latin America & Caribbean,2013,37.42131882
-Bermuda,BMU,North America,2013,NA
 Bolivia,BOL,Latin America & Caribbean,2013,42.4671215
 Brazil,BRA,Latin America & Caribbean,2013,42.28568543
 Barbados,BRB,Latin America & Caribbean,2013,49.33571943
@@ -699,13 +601,10 @@ Comoros,COM,Sub-Saharan Africa,2013,36.98630832
 Cabo Verde,CPV,Sub-Saharan Africa,2013,41.68102632
 Costa Rica,CRI,Latin America & Caribbean,2013,39.58549585
 Cuba,CUB,Latin America & Caribbean,2013,39.03965447
-Curacao,CUW,Latin America & Caribbean,2013,NA
-Cayman Islands,CYM,Latin America & Caribbean,2013,NA
 Cyprus,CYP,Europe & Central Asia,2013,45.17737771
 Czech Republic,CZE,Europe & Central Asia,2013,44.03327063
 Germany,DEU,Europe & Central Asia,2013,46.08716453
 Djibouti,DJI,Middle East & North Africa,2013,39.07806215
-Dominica,DMA,Latin America & Caribbean,2013,NA
 Denmark,DNK,Europe & Central Asia,2013,47.50907634
 Dominican Republic,DOM,Latin America & Caribbean,2013,38.19876007
 Algeria,DZA,Middle East & North Africa,2013,19.21470086
@@ -718,20 +617,15 @@ Ethiopia,ETH,Sub-Saharan Africa,2013,45.96629305
 Finland,FIN,Europe & Central Asia,2013,48.14441286
 Fiji,FJI,East Asia & Pacific,2013,34.79120457
 France,FRA,Europe & Central Asia,2013,47.55270735
-Faroe Islands,FRO,Europe & Central Asia,2013,NA
-Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2013,NA
 Gabon,GAB,Sub-Saharan Africa,2013,40.37716491
 United Kingdom,GBR,Europe & Central Asia,2013,46.27325698
 Georgia,GEO,Europe & Central Asia,2013,44.73629881
 Ghana,GHA,Sub-Saharan Africa,2013,46.77446178
-Gibraltar,GIB,Europe & Central Asia,2013,NA
 Guinea,GIN,Sub-Saharan Africa,2013,54.31730879
 Gambia - The,GMB,Sub-Saharan Africa,2013,43.61932984
 Guinea -Bissau,GNB,Sub-Saharan Africa,2013,47.87083772
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2013,37.26592033
 Greece,GRC,Europe & Central Asia,2013,43.16955466
-Grenada,GRD,Latin America & Caribbean,2013,NA
-Greenland,GRL,Europe & Central Asia,2013,NA
 Guatemala,GTM,Latin America & Caribbean,2013,34.49145472
 Guam,GUM,East Asia & Pacific,2013,40.88485242
 Guyana,GUY,Latin America & Caribbean,2013,36.66432524
@@ -741,9 +635,7 @@ Croatia,HRV,Europe & Central Asia,2013,45.93738005
 Haiti,HTI,Latin America & Caribbean,2013,47.9139575
 Hungary,HUN,Europe & Central Asia,2013,45.86374552
 Indonesia,IDN,East Asia & Pacific,2013,37.90000995
-Isle of Man,IMN,Europe & Central Asia,2013,NA
 India,IND,South Asia,2013,21.01879608
-Not classified,INX,South Asia,2013,NA
 Ireland,IRL,Europe & Central Asia,2013,45.42231807
 Iran - Islamic Rep.,IRN,Middle East & North Africa,2013,16.55043606
 Iraq,IRQ,Middle East & North Africa,2013,14.7865978
@@ -757,8 +649,6 @@ Kazakhstan,KAZ,Europe & Central Asia,2013,48.80736861
 Kenya,KEN,Sub-Saharan Africa,2013,48.23332324
 Kyrgyz Republic,KGZ,Europe & Central Asia,2013,40.37354146
 Cambodia,KHM,East Asia & Pacific,2013,48.64178539
-Kiribati,KIR,East Asia & Pacific,2013,NA
-St. Kitts and Nevis,KNA,Latin America & Caribbean,2013,NA
 Korea - Rep.,KOR,East Asia & Pacific,2013,41.13225987
 Kuwait,KWT,Middle East & North Africa,2013,27.17616961
 Lao PDR,LAO,East Asia & Pacific,2013,49.52468038
@@ -766,28 +656,23 @@ Lebanon,LBN,Middle East & North Africa,2013,24.11100966
 Liberia,LBR,Sub-Saharan Africa,2013,46.96772823
 Libya,LBY,Middle East & North Africa,2013,34.11985376
 St. Lucia,LCA,Latin America & Caribbean,2013,46.3611066
-Liechtenstein,LIE,Europe & Central Asia,2013,NA
 Sri Lanka,LKA,South Asia,2013,33.73815629
 Lesotho,LSO,Sub-Saharan Africa,2013,45.34677112
 Lithuania,LTU,Europe & Central Asia,2013,50.16109323
 Luxembourg,LUX,Europe & Central Asia,2013,44.10463755
 Latvia,LVA,Europe & Central Asia,2013,49.9452797
 Macao SAR - China,MAC,East Asia & Pacific,2013,48.93998591
-St. Martin (French part),MAF,Latin America & Caribbean,2013,NA
 Morocco,MAR,Middle East & North Africa,2013,25.84452933
-Monaco,MCO,Europe & Central Asia,2013,NA
 Moldova,MDA,Europe & Central Asia,2013,48.79717017
 Madagascar,MDG,Sub-Saharan Africa,2013,49.28024126
 Maldives,MDV,South Asia,2013,27.96698113
 Mexico,MEX,Latin America & Caribbean,2013,37.70409295
-Marshall Islands,MHL,East Asia & Pacific,2013,NA
 North Macedonia,MKD,Europe & Central Asia,2013,40.03696345
 Mali,MLI,Sub-Saharan Africa,2013,42.98458796
 Malta,MLT,Middle East & North Africa,2013,38.00794974
 Myanmar,MMR,East Asia & Pacific,2013,41.7717437
 Montenegro,MNE,Europe & Central Asia,2013,44.39659126
 Mongolia,MNG,East Asia & Pacific,2013,45.69060525
-Northern Mariana Islands,MNP,East Asia & Pacific,2013,NA
 Mozambique,MOZ,Sub-Saharan Africa,2013,52.75674839
 Mauritania,MRT,Sub-Saharan Africa,2013,31.00252656
 Mauritius,MUS,Sub-Saharan Africa,2013,38.37288539
@@ -801,14 +686,12 @@ Nicaragua,NIC,Latin America & Caribbean,2013,38.18186853
 Netherlands,NLD,Europe & Central Asia,2013,45.97622009
 Norway,NOR,Europe & Central Asia,2013,47.35738359
 Nepal,NPL,South Asia,2013,53.07879894
-Nauru,NRU,East Asia & Pacific,2013,NA
 New Zealand,NZL,East Asia & Pacific,2013,47.17865673
 Oman,OMN,Middle East & North Africa,2013,13.93628769
 Pakistan,PAK,South Asia,2013,21.09441137
 Panama,PAN,Latin America & Caribbean,2013,38.13315806
 Peru,PER,Latin America & Caribbean,2013,46.07136164
 Philippines,PHL,East Asia & Pacific,2013,39.31955445
-Palau,PLW,East Asia & Pacific,2013,NA
 Papua New Guinea,PNG,East Asia & Pacific,2013,48.44030092
 Poland,POL,Europe & Central Asia,2013,44.88354066
 Puerto Rico,PRI,Latin America & Caribbean,2013,42.19620691
@@ -828,7 +711,6 @@ Singapore,SGP,East Asia & Pacific,2013,40.92576159
 Solomon Islands,SLB,East Asia & Pacific,2013,48.77941006
 Sierra Leone,SLE,Sub-Saharan Africa,2013,49.5110926
 El Salvador,SLV,Latin America & Caribbean,2013,42.65649209
-San Marino,SMR,Europe & Central Asia,2013,NA
 Somalia,SOM,Sub-Saharan Africa,2013,22.41442071
 Serbia,SRB,Europe & Central Asia,2013,43.54649814
 South Sudan,SSD,Sub-Saharan Africa,2013,48.82685485
@@ -838,10 +720,7 @@ Slovak Republic,SVK,Europe & Central Asia,2013,44.80332806
 Slovenia,SVN,Europe & Central Asia,2013,45.6247717
 Sweden,SWE,Europe & Central Asia,2013,47.46562372
 Eswatini,SWZ,Sub-Saharan Africa,2013,49.06082183
-Sint Maarten (Dutch part),SXM,Latin America & Caribbean,2013,NA
-Seychelles,SYC,Sub-Saharan Africa,2013,NA
 Syrian Arab Republic,SYR,Middle East & North Africa,2013,15.77245434
-Turks and Caicos Islands,TCA,Latin America & Caribbean,2013,NA
 Chad,TCD,Sub-Saharan Africa,2013,45.15820998
 Togo,TGO,Sub-Saharan Africa,2013,47.51126722
 Thailand,THA,East Asia & Pacific,2013,45.63561276
@@ -852,7 +731,6 @@ Tonga,TON,East Asia & Pacific,2013,40.31286496
 Trinidad and Tobago,TTO,Latin America & Caribbean,2013,42.39915046
 Tunisia,TUN,Middle East & North Africa,2013,27.10930146
 Turkey,TUR,Europe & Central Asia,2013,31.20670821
-Tuvalu,TUV,East Asia & Pacific,2013,NA
 Tanzania,TZA,Sub-Saharan Africa,2013,48.46349998
 Uganda,UGA,Sub-Saharan Africa,2013,48.75535405
 Ukraine,UKR,Europe & Central Asia,2013,47.61851171
@@ -861,26 +739,20 @@ United States,USA,North America,2013,45.912403
 Uzbekistan,UZB,Europe & Central Asia,2013,40.88709264
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2013,40.59210049
 Venezuela - RB,VEN,Latin America & Caribbean,2013,39.87121608
-British Virgin Islands,VGB,Latin America & Caribbean,2013,NA
 Virgin Islands (U.S.),VIR,Latin America & Caribbean,2013,48.84008545
 Vietnam,VNM,East Asia & Pacific,2013,47.84344724
 Vanuatu,VUT,East Asia & Pacific,2013,43.52228929
 Samoa,WSM,East Asia & Pacific,2013,34.54150054
-Kosovo,XKX,Europe & Central Asia,2013,NA
 Yemen - Rep.,YEM,Middle East & North Africa,2013,9.205391609
 South Africa,ZAF,Sub-Saharan Africa,2013,44.63560633
 Zambia,ZMB,Sub-Saharan Africa,2013,47.79888117
 Zimbabwe,ZWE,Sub-Saharan Africa,2013,50.90947016
-Aruba,ABW,Latin America & Caribbean,2014,NA
 Afghanistan,AFG,South Asia,2014,17.85292623
 Angola,AGO,Sub-Saharan Africa,2014,50.00885815
 Albania,ALB,Europe & Central Asia,2014,40.27643235
-Andorra,AND,Europe & Central Asia,2014,NA
 United Arab Emirates,ARE,Middle East & North Africa,2014,15.1193073
 Argentina,ARG,Latin America & Caribbean,2014,41.24918956
 Armenia,ARM,Europe & Central Asia,2014,47.05657595
-American Samoa,ASM,East Asia & Pacific,2014,NA
-Antigua and Barbuda,ATG,Latin America & Caribbean,2014,NA
 Australia,AUS,East Asia & Pacific,2014,45.74038957
 Austria,AUT,Europe & Central Asia,2014,46.70595908
 Azerbaijan,AZE,Europe & Central Asia,2014,48.94658187
@@ -895,7 +767,6 @@ Bahamas,BHS,Latin America & Caribbean,2014,48.10544905
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2014,39.73748135
 Belarus,BLR,Europe & Central Asia,2014,49.67902079
 Belize,BLZ,Latin America & Caribbean,2014,37.73430487
-Bermuda,BMU,North America,2014,NA
 Bolivia,BOL,Latin America & Caribbean,2014,42.76062057
 Brazil,BRA,Latin America & Caribbean,2014,42.3803816
 Barbados,BRB,Latin America & Caribbean,2014,49.77714506
@@ -917,13 +788,10 @@ Comoros,COM,Sub-Saharan Africa,2014,36.75243802
 Cabo Verde,CPV,Sub-Saharan Africa,2014,42.2027313
 Costa Rica,CRI,Latin America & Caribbean,2014,39.30512321
 Cuba,CUB,Latin America & Caribbean,2014,39.01268496
-Curacao,CUW,Latin America & Caribbean,2014,NA
-Cayman Islands,CYM,Latin America & Caribbean,2014,NA
 Cyprus,CYP,Europe & Central Asia,2014,45.95791201
 Czech Republic,CZE,Europe & Central Asia,2014,43.95403726
 Germany,DEU,Europe & Central Asia,2014,46.17170757
 Djibouti,DJI,Middle East & North Africa,2014,39.27121737
-Dominica,DMA,Latin America & Caribbean,2014,NA
 Denmark,DNK,Europe & Central Asia,2014,47.14701384
 Dominican Republic,DOM,Latin America & Caribbean,2014,38.50257899
 Algeria,DZA,Middle East & North Africa,2014,18.37111451
@@ -936,20 +804,15 @@ Ethiopia,ETH,Sub-Saharan Africa,2014,46.06481869
 Finland,FIN,Europe & Central Asia,2014,48.26833432
 Fiji,FJI,East Asia & Pacific,2014,34.54899477
 France,FRA,Europe & Central Asia,2014,47.6948435
-Faroe Islands,FRO,Europe & Central Asia,2014,NA
-Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2014,NA
 Gabon,GAB,Sub-Saharan Africa,2014,40.40551279
 United Kingdom,GBR,Europe & Central Asia,2014,46.41063771
 Georgia,GEO,Europe & Central Asia,2014,45.03610243
 Ghana,GHA,Sub-Saharan Africa,2014,46.54088248
-Gibraltar,GIB,Europe & Central Asia,2014,NA
 Guinea,GIN,Sub-Saharan Africa,2014,54.35048285
 Gambia - The,GMB,Sub-Saharan Africa,2014,43.68622247
 Guinea -Bissau,GNB,Sub-Saharan Africa,2014,47.84272316
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2014,37.09532758
 Greece,GRC,Europe & Central Asia,2014,43.57546633
-Grenada,GRD,Latin America & Caribbean,2014,NA
-Greenland,GRL,Europe & Central Asia,2014,NA
 Guatemala,GTM,Latin America & Caribbean,2014,34.3157267
 Guam,GUM,East Asia & Pacific,2014,40.87334891
 Guyana,GUY,Latin America & Caribbean,2014,37.1025992
@@ -959,9 +822,7 @@ Croatia,HRV,Europe & Central Asia,2014,46.44306566
 Haiti,HTI,Latin America & Caribbean,2014,48.01754035
 Hungary,HUN,Europe & Central Asia,2014,45.86102966
 Indonesia,IDN,East Asia & Pacific,2014,37.92051232
-Isle of Man,IMN,Europe & Central Asia,2014,NA
 India,IND,South Asia,2014,20.82547582
-Not classified,INX,South Asia,2014,NA
 Ireland,IRL,Europe & Central Asia,2014,45.3082041
 Iran - Islamic Rep.,IRN,Middle East & North Africa,2014,16.03952158
 Iraq,IRQ,Middle East & North Africa,2014,15.52312956
@@ -975,8 +836,6 @@ Kazakhstan,KAZ,Europe & Central Asia,2014,48.68711634
 Kenya,KEN,Sub-Saharan Africa,2014,48.35913076
 Kyrgyz Republic,KGZ,Europe & Central Asia,2014,41.39872995
 Cambodia,KHM,East Asia & Pacific,2014,48.44739734
-Kiribati,KIR,East Asia & Pacific,2014,NA
-St. Kitts and Nevis,KNA,Latin America & Caribbean,2014,NA
 Korea - Rep.,KOR,East Asia & Pacific,2014,41.35711742
 Kuwait,KWT,Middle East & North Africa,2014,27.18427105
 Lao PDR,LAO,East Asia & Pacific,2014,49.3085702
@@ -984,28 +843,23 @@ Lebanon,LBN,Middle East & North Africa,2014,24.14456528
 Liberia,LBR,Sub-Saharan Africa,2014,47.00980553
 Libya,LBY,Middle East & North Africa,2014,34.13436845
 St. Lucia,LCA,Latin America & Caribbean,2014,46.60673576
-Liechtenstein,LIE,Europe & Central Asia,2014,NA
 Sri Lanka,LKA,South Asia,2014,33.49239632
 Lesotho,LSO,Sub-Saharan Africa,2014,45.30104001
 Lithuania,LTU,Europe & Central Asia,2014,50.19413379
 Luxembourg,LUX,Europe & Central Asia,2014,44.18517138
 Latvia,LVA,Europe & Central Asia,2014,49.56643779
 Macao SAR - China,MAC,East Asia & Pacific,2014,48.73450323
-St. Martin (French part),MAF,Latin America & Caribbean,2014,NA
 Morocco,MAR,Middle East & North Africa,2014,25.38917085
-Monaco,MCO,Europe & Central Asia,2014,NA
 Moldova,MDA,Europe & Central Asia,2014,48.71679718
 Madagascar,MDG,Sub-Saharan Africa,2014,49.03616859
 Maldives,MDV,South Asia,2014,27.19474364
 Mexico,MEX,Latin America & Caribbean,2014,37.24375158
-Marshall Islands,MHL,East Asia & Pacific,2014,NA
 North Macedonia,MKD,Europe & Central Asia,2014,39.52572409
 Mali,MLI,Sub-Saharan Africa,2014,42.97171546
 Malta,MLT,Middle East & North Africa,2014,38.60852306
 Myanmar,MMR,East Asia & Pacific,2014,41.69181772
 Montenegro,MNE,Europe & Central Asia,2014,44.66387962
 Mongolia,MNG,East Asia & Pacific,2014,45.65394526
-Northern Mariana Islands,MNP,East Asia & Pacific,2014,NA
 Mozambique,MOZ,Sub-Saharan Africa,2014,52.50158649
 Mauritania,MRT,Sub-Saharan Africa,2014,30.94107781
 Mauritius,MUS,Sub-Saharan Africa,2014,38.4259469
@@ -1019,14 +873,12 @@ Nicaragua,NIC,Latin America & Caribbean,2014,38.30983277
 Netherlands,NLD,Europe & Central Asia,2014,45.73628705
 Norway,NOR,Europe & Central Asia,2014,47.31694328
 Nepal,NPL,South Asia,2014,54.35100383
-Nauru,NRU,East Asia & Pacific,2014,NA
 New Zealand,NZL,East Asia & Pacific,2014,47.25332648
 Oman,OMN,Middle East & North Africa,2014,13.51966673
 Pakistan,PAK,South Asia,2014,21.47461054
 Panama,PAN,Latin America & Caribbean,2014,38.42375343
 Peru,PER,Latin America & Caribbean,2014,45.97208758
 Philippines,PHL,East Asia & Pacific,2014,39.54525383
-Palau,PLW,East Asia & Pacific,2014,NA
 Papua New Guinea,PNG,East Asia & Pacific,2014,48.58916676
 Poland,POL,Europe & Central Asia,2014,44.88197249
 Puerto Rico,PRI,Latin America & Caribbean,2014,42.23432762
@@ -1046,7 +898,6 @@ Singapore,SGP,East Asia & Pacific,2014,41.30708789
 Solomon Islands,SLB,East Asia & Pacific,2014,48.73981965
 Sierra Leone,SLE,Sub-Saharan Africa,2014,49.500745
 El Salvador,SLV,Latin America & Caribbean,2014,42.25928523
-San Marino,SMR,Europe & Central Asia,2014,NA
 Somalia,SOM,Sub-Saharan Africa,2014,22.66401531
 Serbia,SRB,Europe & Central Asia,2014,43.76790868
 South Sudan,SSD,Sub-Saharan Africa,2014,48.92957492
@@ -1056,10 +907,7 @@ Slovak Republic,SVK,Europe & Central Asia,2014,44.75772423
 Slovenia,SVN,Europe & Central Asia,2014,45.89052743
 Sweden,SWE,Europe & Central Asia,2014,47.5214411
 Eswatini,SWZ,Sub-Saharan Africa,2014,48.83944791
-Sint Maarten (Dutch part),SXM,Latin America & Caribbean,2014,NA
-Seychelles,SYC,Sub-Saharan Africa,2014,NA
 Syrian Arab Republic,SYR,Middle East & North Africa,2014,15.98403703
-Turks and Caicos Islands,TCA,Latin America & Caribbean,2014,NA
 Chad,TCD,Sub-Saharan Africa,2014,45.23824312
 Togo,TGO,Sub-Saharan Africa,2014,47.6077768
 Thailand,THA,East Asia & Pacific,2014,45.57068247
@@ -1070,7 +918,6 @@ Tonga,TON,East Asia & Pacific,2014,40.61561562
 Trinidad and Tobago,TTO,Latin America & Caribbean,2014,42.51930231
 Tunisia,TUN,Middle East & North Africa,2014,27.52767544
 Turkey,TUR,Europe & Central Asia,2014,31.03924459
-Tuvalu,TUV,East Asia & Pacific,2014,NA
 Tanzania,TZA,Sub-Saharan Africa,2014,48.17522384
 Uganda,UGA,Sub-Saharan Africa,2014,48.88401898
 Ukraine,UKR,Europe & Central Asia,2014,47.336018
@@ -1079,26 +926,20 @@ United States,USA,North America,2014,45.96452931
 Uzbekistan,UZB,Europe & Central Asia,2014,40.70346353
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2014,40.74300841
 Venezuela - RB,VEN,Latin America & Caribbean,2014,39.82917039
-British Virgin Islands,VGB,Latin America & Caribbean,2014,NA
 Virgin Islands (U.S.),VIR,Latin America & Caribbean,2014,48.87172612
 Vietnam,VNM,East Asia & Pacific,2014,47.90459863
 Vanuatu,VUT,East Asia & Pacific,2014,43.52135025
 Samoa,WSM,East Asia & Pacific,2014,34.43806492
-Kosovo,XKX,Europe & Central Asia,2014,NA
 Yemen - Rep.,YEM,Middle East & North Africa,2014,8.240403229
 South Africa,ZAF,Sub-Saharan Africa,2014,44.68261415
 Zambia,ZMB,Sub-Saharan Africa,2014,47.85692262
 Zimbabwe,ZWE,Sub-Saharan Africa,2014,50.94477173
-Aruba,ABW,Latin America & Caribbean,2015,NA
 Afghanistan,AFG,South Asia,2015,18.78776214
 Angola,AGO,Sub-Saharan Africa,2015,50.0503243
 Albania,ALB,Europe & Central Asia,2015,41.13284821
-Andorra,AND,Europe & Central Asia,2015,NA
 United Arab Emirates,ARE,Middle East & North Africa,2015,16.09080234
 Argentina,ARG,Latin America & Caribbean,2015,41.61124609
 Armenia,ARM,Europe & Central Asia,2015,46.83691791
-American Samoa,ASM,East Asia & Pacific,2015,NA
-Antigua and Barbuda,ATG,Latin America & Caribbean,2015,NA
 Australia,AUS,East Asia & Pacific,2015,45.90908231
 Austria,AUT,Europe & Central Asia,2015,46.67788579
 Azerbaijan,AZE,Europe & Central Asia,2015,49.01924794
@@ -1113,7 +954,6 @@ Bahamas,BHS,Latin America & Caribbean,2015,48.12190529
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2015,39.67188671
 Belarus,BLR,Europe & Central Asia,2015,49.66087777
 Belize,BLZ,Latin America & Caribbean,2015,38.10968807
-Bermuda,BMU,North America,2015,NA
 Bolivia,BOL,Latin America & Caribbean,2015,40.70650306
 Brazil,BRA,Latin America & Caribbean,2015,42.71812106
 Barbados,BRB,Latin America & Caribbean,2015,49.38735061
@@ -1135,13 +975,10 @@ Comoros,COM,Sub-Saharan Africa,2015,36.91291422
 Cabo Verde,CPV,Sub-Saharan Africa,2015,42.71412883
 Costa Rica,CRI,Latin America & Caribbean,2015,39.31935395
 Cuba,CUB,Latin America & Caribbean,2015,39.15081361
-Curacao,CUW,Latin America & Caribbean,2015,NA
-Cayman Islands,CYM,Latin America & Caribbean,2015,NA
 Cyprus,CYP,Europe & Central Asia,2015,46.42562811
 Czech Republic,CZE,Europe & Central Asia,2015,44.20816575
 Germany,DEU,Europe & Central Asia,2015,46.27165582
 Djibouti,DJI,Middle East & North Africa,2015,39.47523355
-Dominica,DMA,Latin America & Caribbean,2015,NA
 Denmark,DNK,Europe & Central Asia,2015,46.87210938
 Dominican Republic,DOM,Latin America & Caribbean,2015,39.16523678
 Algeria,DZA,Middle East & North Africa,2015,19.03729405
@@ -1154,20 +991,15 @@ Ethiopia,ETH,Sub-Saharan Africa,2015,46.16532326
 Finland,FIN,Europe & Central Asia,2015,48.28883867
 Fiji,FJI,East Asia & Pacific,2015,33.68969926
 France,FRA,Europe & Central Asia,2015,47.71680276
-Faroe Islands,FRO,Europe & Central Asia,2015,NA
-Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2015,NA
 Gabon,GAB,Sub-Saharan Africa,2015,40.42922486
 United Kingdom,GBR,Europe & Central Asia,2015,46.45714763
 Georgia,GEO,Europe & Central Asia,2015,45.49108702
 Ghana,GHA,Sub-Saharan Africa,2015,46.31146463
-Gibraltar,GIB,Europe & Central Asia,2015,NA
 Guinea,GIN,Sub-Saharan Africa,2015,54.36858564
 Gambia - The,GMB,Sub-Saharan Africa,2015,43.78610752
 Guinea -Bissau,GNB,Sub-Saharan Africa,2015,47.82115288
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2015,36.9429016
 Greece,GRC,Europe & Central Asia,2015,44.08109237
-Grenada,GRD,Latin America & Caribbean,2015,NA
-Greenland,GRL,Europe & Central Asia,2015,NA
 Guatemala,GTM,Latin America & Caribbean,2015,33.00103342
 Guam,GUM,East Asia & Pacific,2015,40.84086394
 Guyana,GUY,Latin America & Caribbean,2015,37.55263511
@@ -1177,9 +1009,7 @@ Croatia,HRV,Europe & Central Asia,2015,46.50001987
 Haiti,HTI,Latin America & Caribbean,2015,48.04818309
 Hungary,HUN,Europe & Central Asia,2015,45.79550155
 Indonesia,IDN,East Asia & Pacific,2015,38.06165126
-Isle of Man,IMN,Europe & Central Asia,2015,NA
 India,IND,South Asia,2015,20.65212255
-Not classified,INX,South Asia,2015,NA
 Ireland,IRL,Europe & Central Asia,2015,45.19124975
 Iran - Islamic Rep.,IRN,Middle East & North Africa,2015,17.27368215
 Iraq,IRQ,Middle East & North Africa,2015,16.01393563
@@ -1193,8 +1023,6 @@ Kazakhstan,KAZ,Europe & Central Asia,2015,48.56889861
 Kenya,KEN,Sub-Saharan Africa,2015,48.48229635
 Kyrgyz Republic,KGZ,Europe & Central Asia,2015,41.00565529
 Cambodia,KHM,East Asia & Pacific,2015,48.28565405
-Kiribati,KIR,East Asia & Pacific,2015,NA
-St. Kitts and Nevis,KNA,Latin America & Caribbean,2015,NA
 Korea - Rep.,KOR,East Asia & Pacific,2015,41.84106954
 Kuwait,KWT,Middle East & North Africa,2015,27.06653053
 Lao PDR,LAO,East Asia & Pacific,2015,49.13447682
@@ -1202,28 +1030,23 @@ Lebanon,LBN,Middle East & North Africa,2015,24.17538037
 Liberia,LBR,Sub-Saharan Africa,2015,47.0734819
 Libya,LBY,Middle East & North Africa,2015,34.13463283
 St. Lucia,LCA,Latin America & Caribbean,2015,46.84398687
-Liechtenstein,LIE,Europe & Central Asia,2015,NA
 Sri Lanka,LKA,South Asia,2015,34.26996241
 Lesotho,LSO,Sub-Saharan Africa,2015,45.27816933
 Lithuania,LTU,Europe & Central Asia,2015,50.47292564
 Luxembourg,LUX,Europe & Central Asia,2015,45.13989835
 Latvia,LVA,Europe & Central Asia,2015,49.57899779
 Macao SAR - China,MAC,East Asia & Pacific,2015,48.8836329
-St. Martin (French part),MAF,Latin America & Caribbean,2015,NA
 Morocco,MAR,Middle East & North Africa,2015,24.9530749
-Monaco,MCO,Europe & Central Asia,2015,NA
 Moldova,MDA,Europe & Central Asia,2015,49.21191076
 Madagascar,MDG,Sub-Saharan Africa,2015,48.76092563
 Maldives,MDV,South Asia,2015,25.20140822
 Mexico,MEX,Latin America & Caribbean,2015,37.47973324
-Marshall Islands,MHL,East Asia & Pacific,2015,NA
 North Macedonia,MKD,Europe & Central Asia,2015,39.4305886
 Mali,MLI,Sub-Saharan Africa,2015,43.75155032
 Malta,MLT,Middle East & North Africa,2015,38.84937691
 Myanmar,MMR,East Asia & Pacific,2015,41.61646993
 Montenegro,MNE,Europe & Central Asia,2015,45.1560792
 Mongolia,MNG,East Asia & Pacific,2015,45.46994336
-Northern Mariana Islands,MNP,East Asia & Pacific,2015,NA
 Mozambique,MOZ,Sub-Saharan Africa,2015,52.2326433
 Mauritania,MRT,Sub-Saharan Africa,2015,30.89120579
 Mauritius,MUS,Sub-Saharan Africa,2015,39.13312078
@@ -1237,14 +1060,12 @@ Nicaragua,NIC,Latin America & Caribbean,2015,38.57708252
 Netherlands,NLD,Europe & Central Asia,2015,45.98306137
 Norway,NOR,Europe & Central Asia,2015,47.10729021
 Nepal,NPL,South Asia,2015,55.42053105
-Nauru,NRU,East Asia & Pacific,2015,NA
 New Zealand,NZL,East Asia & Pacific,2015,47.24931276
 Oman,OMN,Middle East & North Africa,2015,13.24845335
 Pakistan,PAK,South Asia,2015,21.95186711
 Panama,PAN,Latin America & Caribbean,2015,39.22751627
 Peru,PER,Latin America & Caribbean,2015,45.63420545
 Philippines,PHL,East Asia & Pacific,2015,39.731591
-Palau,PLW,East Asia & Pacific,2015,NA
 Papua New Guinea,PNG,East Asia & Pacific,2015,48.68483126
 Poland,POL,Europe & Central Asia,2015,44.80577317
 Puerto Rico,PRI,Latin America & Caribbean,2015,42.27978313
@@ -1264,7 +1085,6 @@ Singapore,SGP,East Asia & Pacific,2015,41.64938102
 Solomon Islands,SLB,East Asia & Pacific,2015,48.7058488
 Sierra Leone,SLE,Sub-Saharan Africa,2015,49.32066237
 El Salvador,SLV,Latin America & Caribbean,2015,41.89193447
-San Marino,SMR,Europe & Central Asia,2015,NA
 Somalia,SOM,Sub-Saharan Africa,2015,22.87208716
 Serbia,SRB,Europe & Central Asia,2015,43.73360794
 South Sudan,SSD,Sub-Saharan Africa,2015,49.04605938
@@ -1274,10 +1094,7 @@ Slovak Republic,SVK,Europe & Central Asia,2015,45.25587967
 Slovenia,SVN,Europe & Central Asia,2015,45.86737127
 Sweden,SWE,Europe & Central Asia,2015,47.70300779
 Eswatini,SWZ,Sub-Saharan Africa,2015,48.55516777
-Sint Maarten (Dutch part),SXM,Latin America & Caribbean,2015,NA
-Seychelles,SYC,Sub-Saharan Africa,2015,NA
 Syrian Arab Republic,SYR,Middle East & North Africa,2015,16.16279386
-Turks and Caicos Islands,TCA,Latin America & Caribbean,2015,NA
 Chad,TCD,Sub-Saharan Africa,2015,45.32299523
 Togo,TGO,Sub-Saharan Africa,2015,47.72669901
 Thailand,THA,East Asia & Pacific,2015,45.65136571
@@ -1288,7 +1105,6 @@ Tonga,TON,East Asia & Pacific,2015,40.93608103
 Trinidad and Tobago,TTO,Latin America & Caribbean,2015,41.86736065
 Tunisia,TUN,Middle East & North Africa,2015,27.98976417
 Turkey,TUR,Europe & Central Asia,2015,31.72842881
-Tuvalu,TUV,East Asia & Pacific,2015,NA
 Tanzania,TZA,Sub-Saharan Africa,2015,48.19189808
 Uganda,UGA,Sub-Saharan Africa,2015,49.00501803
 Ukraine,UKR,Europe & Central Asia,2015,47.37049947
@@ -1297,26 +1113,20 @@ United States,USA,North America,2015,45.86526644
 Uzbekistan,UZB,Europe & Central Asia,2015,40.53046657
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2015,40.89778684
 Venezuela - RB,VEN,Latin America & Caribbean,2015,39.75655108
-British Virgin Islands,VGB,Latin America & Caribbean,2015,NA
 Virgin Islands (U.S.),VIR,Latin America & Caribbean,2015,48.94985161
 Vietnam,VNM,East Asia & Pacific,2015,47.71007268
 Vanuatu,VUT,East Asia & Pacific,2015,43.54454914
 Samoa,WSM,East Asia & Pacific,2015,34.42168606
-Kosovo,XKX,Europe & Central Asia,2015,NA
 Yemen - Rep.,YEM,Middle East & North Africa,2015,8.06938771
 South Africa,ZAF,Sub-Saharan Africa,2015,44.84204563
 Zambia,ZMB,Sub-Saharan Africa,2015,47.9428658
 Zimbabwe,ZWE,Sub-Saharan Africa,2015,50.97638387
-Aruba,ABW,Latin America & Caribbean,2016,NA
 Afghanistan,AFG,South Asia,2016,19.81644307
 Angola,AGO,Sub-Saharan Africa,2016,50.09768445
 Albania,ALB,Europe & Central Asia,2016,42.02544315
-Andorra,AND,Europe & Central Asia,2016,NA
 United Arab Emirates,ARE,Middle East & North Africa,2016,16.7724968
 Argentina,ARG,Latin America & Caribbean,2016,41.98006461
 Armenia,ARM,Europe & Central Asia,2016,46.04880157
-American Samoa,ASM,East Asia & Pacific,2016,NA
-Antigua and Barbuda,ATG,Latin America & Caribbean,2016,NA
 Australia,AUS,East Asia & Pacific,2016,46.16121062
 Austria,AUT,Europe & Central Asia,2016,46.7016146
 Azerbaijan,AZE,Europe & Central Asia,2016,48.78514787
@@ -1331,7 +1141,6 @@ Bahamas,BHS,Latin America & Caribbean,2016,48.15205191
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2016,39.08564141
 Belarus,BLR,Europe & Central Asia,2016,49.68982259
 Belize,BLZ,Latin America & Caribbean,2016,38.78414376
-Bermuda,BMU,North America,2016,NA
 Bolivia,BOL,Latin America & Caribbean,2016,42.15846678
 Brazil,BRA,Latin America & Caribbean,2016,42.86628449
 Barbados,BRB,Latin America & Caribbean,2016,49.41858588
@@ -1353,13 +1162,10 @@ Comoros,COM,Sub-Saharan Africa,2016,37.0666642
 Cabo Verde,CPV,Sub-Saharan Africa,2016,43.23252377
 Costa Rica,CRI,Latin America & Caribbean,2016,38.01405885
 Cuba,CUB,Latin America & Caribbean,2016,39.03399935
-Curacao,CUW,Latin America & Caribbean,2016,NA
-Cayman Islands,CYM,Latin America & Caribbean,2016,NA
 Cyprus,CYP,Europe & Central Asia,2016,46.18688049
 Czech Republic,CZE,Europe & Central Asia,2016,44.3679268
 Germany,DEU,Europe & Central Asia,2016,46.36263992
 Djibouti,DJI,Middle East & North Africa,2016,39.48726733
-Dominica,DMA,Latin America & Caribbean,2016,NA
 Denmark,DNK,Europe & Central Asia,2016,47.31083673
 Dominican Republic,DOM,Latin America & Caribbean,2016,39.56908394
 Algeria,DZA,Middle East & North Africa,2016,19.70660647
@@ -1372,20 +1178,15 @@ Ethiopia,ETH,Sub-Saharan Africa,2016,46.2645095
 Finland,FIN,Europe & Central Asia,2016,48.04480909
 Fiji,FJI,East Asia & Pacific,2016,32.83511735
 France,FRA,Europe & Central Asia,2016,47.83613306
-Faroe Islands,FRO,Europe & Central Asia,2016,NA
-Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2016,NA
 Gabon,GAB,Sub-Saharan Africa,2016,40.25993316
 United Kingdom,GBR,Europe & Central Asia,2016,46.53590437
 Georgia,GEO,Europe & Central Asia,2016,44.82042016
 Ghana,GHA,Sub-Saharan Africa,2016,46.36382474
-Gibraltar,GIB,Europe & Central Asia,2016,NA
 Guinea,GIN,Sub-Saharan Africa,2016,54.43670676
 Gambia - The,GMB,Sub-Saharan Africa,2016,43.81008586
 Guinea -Bissau,GNB,Sub-Saharan Africa,2016,47.77069114
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2016,36.87010975
 Greece,GRC,Europe & Central Asia,2016,44.21718895
-Grenada,GRD,Latin America & Caribbean,2016,NA
-Greenland,GRL,Europe & Central Asia,2016,NA
 Guatemala,GTM,Latin America & Caribbean,2016,33.97820725
 Guam,GUM,East Asia & Pacific,2016,40.80950566
 Guyana,GUY,Latin America & Caribbean,2016,38.02668155
@@ -1395,9 +1196,7 @@ Croatia,HRV,Europe & Central Asia,2016,46.30029478
 Haiti,HTI,Latin America & Caribbean,2016,48.06328427
 Hungary,HUN,Europe & Central Asia,2016,45.66994332
 Indonesia,IDN,East Asia & Pacific,2016,38.34407464
-Isle of Man,IMN,Europe & Central Asia,2016,NA
 India,IND,South Asia,2016,20.49006748
-Not classified,INX,South Asia,2016,NA
 Ireland,IRL,Europe & Central Asia,2016,45.50169978
 Iran - Islamic Rep.,IRN,Middle East & North Africa,2016,18.81339159
 Iraq,IRQ,Middle East & North Africa,2016,16.5451264
@@ -1411,8 +1210,6 @@ Kazakhstan,KAZ,Europe & Central Asia,2016,48.32694981
 Kenya,KEN,Sub-Saharan Africa,2016,48.60383438
 Kyrgyz Republic,KGZ,Europe & Central Asia,2016,40.29668248
 Cambodia,KHM,East Asia & Pacific,2016,48.49220658
-Kiribati,KIR,East Asia & Pacific,2016,NA
-St. Kitts and Nevis,KNA,Latin America & Caribbean,2016,NA
 Korea - Rep.,KOR,East Asia & Pacific,2016,41.93614322
 Kuwait,KWT,Middle East & North Africa,2016,26.60585401
 Lao PDR,LAO,East Asia & Pacific,2016,49.09459614
@@ -1420,28 +1217,23 @@ Lebanon,LBN,Middle East & North Africa,2016,24.28585611
 Liberia,LBR,Sub-Saharan Africa,2016,47.32801888
 Libya,LBY,Middle East & North Africa,2016,34.13204525
 St. Lucia,LCA,Latin America & Caribbean,2016,47.06379464
-Liechtenstein,LIE,Europe & Central Asia,2016,NA
 Sri Lanka,LKA,South Asia,2016,34.2719969
 Lesotho,LSO,Sub-Saharan Africa,2016,45.30118838
 Lithuania,LTU,Europe & Central Asia,2016,50.4992492
 Luxembourg,LUX,Europe & Central Asia,2016,44.98550663
 Latvia,LVA,Europe & Central Asia,2016,50.09051863
 Macao SAR - China,MAC,East Asia & Pacific,2016,49.0759248
-St. Martin (French part),MAF,Latin America & Caribbean,2016,NA
 Morocco,MAR,Middle East & North Africa,2016,24.53385682
-Monaco,MCO,Europe & Central Asia,2016,NA
 Moldova,MDA,Europe & Central Asia,2016,49.17847873
 Madagascar,MDG,Sub-Saharan Africa,2016,48.81050529
 Maldives,MDV,South Asia,2016,23.39589767
 Mexico,MEX,Latin America & Caribbean,2016,37.57326142
-Marshall Islands,MHL,East Asia & Pacific,2016,NA
 North Macedonia,MKD,Europe & Central Asia,2016,38.73780004
 Mali,MLI,Sub-Saharan Africa,2016,42.93631643
 Malta,MLT,Middle East & North Africa,2016,39.53982564
 Myanmar,MMR,East Asia & Pacific,2016,41.100912
 Montenegro,MNE,Europe & Central Asia,2016,44.47277249
 Mongolia,MNG,East Asia & Pacific,2016,45.41176213
-Northern Mariana Islands,MNP,East Asia & Pacific,2016,NA
 Mozambique,MOZ,Sub-Saharan Africa,2016,52.22896236
 Mauritania,MRT,Sub-Saharan Africa,2016,30.85704117
 Mauritius,MUS,Sub-Saharan Africa,2016,38.81256656
@@ -1455,14 +1247,12 @@ Nicaragua,NIC,Latin America & Caribbean,2016,38.81548062
 Netherlands,NLD,Europe & Central Asia,2016,46.07303056
 Norway,NOR,Europe & Central Asia,2016,47.07414515
 Nepal,NPL,South Asia,2016,55.8319624
-Nauru,NRU,East Asia & Pacific,2016,NA
 New Zealand,NZL,East Asia & Pacific,2016,47.35897853
 Oman,OMN,Middle East & North Africa,2016,13.16570776
 Pakistan,PAK,South Asia,2016,21.33377272
 Panama,PAN,Latin America & Caribbean,2016,39.35176366
 Peru,PER,Latin America & Caribbean,2016,45.83454894
 Philippines,PHL,East Asia & Pacific,2016,39.32686781
-Palau,PLW,East Asia & Pacific,2016,NA
 Papua New Guinea,PNG,East Asia & Pacific,2016,48.69951854
 Poland,POL,Europe & Central Asia,2016,44.64255924
 Puerto Rico,PRI,Latin America & Caribbean,2016,42.56386151
@@ -1482,7 +1272,6 @@ Singapore,SGP,East Asia & Pacific,2016,41.76451896
 Solomon Islands,SLB,East Asia & Pacific,2016,48.6778194
 Sierra Leone,SLE,Sub-Saharan Africa,2016,49.47510021
 El Salvador,SLV,Latin America & Caribbean,2016,42.20250676
-San Marino,SMR,Europe & Central Asia,2016,NA
 Somalia,SOM,Sub-Saharan Africa,2016,23.04818264
 Serbia,SRB,Europe & Central Asia,2016,44.22585286
 South Sudan,SSD,Sub-Saharan Africa,2016,49.13062668
@@ -1492,10 +1281,7 @@ Slovak Republic,SVK,Europe & Central Asia,2016,45.44432955
 Slovenia,SVN,Europe & Central Asia,2016,46.43080723
 Sweden,SWE,Europe & Central Asia,2016,47.6562854
 Eswatini,SWZ,Sub-Saharan Africa,2016,48.52854945
-Sint Maarten (Dutch part),SXM,Latin America & Caribbean,2016,NA
-Seychelles,SYC,Sub-Saharan Africa,2016,NA
 Syrian Arab Republic,SYR,Middle East & North Africa,2016,16.37225037
-Turks and Caicos Islands,TCA,Latin America & Caribbean,2016,NA
 Chad,TCD,Sub-Saharan Africa,2016,45.36881683
 Togo,TGO,Sub-Saharan Africa,2016,47.8451085
 Thailand,THA,East Asia & Pacific,2016,45.64418667
@@ -1506,7 +1292,6 @@ Tonga,TON,East Asia & Pacific,2016,41.13413932
 Trinidad and Tobago,TTO,Latin America & Caribbean,2016,42.53208912
 Tunisia,TUN,Middle East & North Africa,2016,27.80987385
 Turkey,TUR,Europe & Central Asia,2016,32.25634298
-Tuvalu,TUV,East Asia & Pacific,2016,NA
 Tanzania,TZA,Sub-Saharan Africa,2016,48.20685188
 Uganda,UGA,Sub-Saharan Africa,2016,49.11381576
 Ukraine,UKR,Europe & Central Asia,2016,47.27487157
@@ -1515,26 +1300,20 @@ United States,USA,North America,2016,45.87084209
 Uzbekistan,UZB,Europe & Central Asia,2016,40.40108912
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2016,41.0955744
 Venezuela - RB,VEN,Latin America & Caribbean,2016,39.2367643
-British Virgin Islands,VGB,Latin America & Caribbean,2016,NA
 Virgin Islands (U.S.),VIR,Latin America & Caribbean,2016,49.0781253
 Vietnam,VNM,East Asia & Pacific,2016,47.78709419
 Vanuatu,VUT,East Asia & Pacific,2016,43.56714336
 Samoa,WSM,East Asia & Pacific,2016,34.51903141
-Kosovo,XKX,Europe & Central Asia,2016,NA
 Yemen - Rep.,YEM,Middle East & North Africa,2016,7.98555965
 South Africa,ZAF,Sub-Saharan Africa,2016,44.82017063
 Zambia,ZMB,Sub-Saharan Africa,2016,48.03987309
 Zimbabwe,ZWE,Sub-Saharan Africa,2016,50.94018357
-Aruba,ABW,Latin America & Caribbean,2017,NA
 Afghanistan,AFG,South Asia,2017,20.89235133
 Angola,AGO,Sub-Saharan Africa,2017,50.15361679
 Albania,ALB,Europe & Central Asia,2017,41.24503232
-Andorra,AND,Europe & Central Asia,2017,NA
 United Arab Emirates,ARE,Middle East & North Africa,2017,17.37275588
 Argentina,ARG,Latin America & Caribbean,2017,42.34359288
 Armenia,ARM,Europe & Central Asia,2017,46.1497465
-American Samoa,ASM,East Asia & Pacific,2017,NA
-Antigua and Barbuda,ATG,Latin America & Caribbean,2017,NA
 Australia,AUS,East Asia & Pacific,2017,46.33986836
 Austria,AUT,Europe & Central Asia,2017,46.61789361
 Azerbaijan,AZE,Europe & Central Asia,2017,48.73182032
@@ -1549,7 +1328,6 @@ Bahamas,BHS,Latin America & Caribbean,2017,48.14961125
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2017,39.63702578
 Belarus,BLR,Europe & Central Asia,2017,49.47903322
 Belize,BLZ,Latin America & Caribbean,2017,38.49603516
-Bermuda,BMU,North America,2017,NA
 Bolivia,BOL,Latin America & Caribbean,2017,42.91157579
 Brazil,BRA,Latin America & Caribbean,2017,43.38080331
 Barbados,BRB,Latin America & Caribbean,2017,49.41181779
@@ -1571,13 +1349,10 @@ Comoros,COM,Sub-Saharan Africa,2017,37.2581348
 Cabo Verde,CPV,Sub-Saharan Africa,2017,43.7447835
 Costa Rica,CRI,Latin America & Caribbean,2017,38.08549379
 Cuba,CUB,Latin America & Caribbean,2017,38.98792577
-Curacao,CUW,Latin America & Caribbean,2017,NA
-Cayman Islands,CYM,Latin America & Caribbean,2017,NA
 Cyprus,CYP,Europe & Central Asia,2017,46.19624091
 Czech Republic,CZE,Europe & Central Asia,2017,44.52485589
 Germany,DEU,Europe & Central Asia,2017,46.407831
 Djibouti,DJI,Middle East & North Africa,2017,39.5865387
-Dominica,DMA,Latin America & Caribbean,2017,NA
 Denmark,DNK,Europe & Central Asia,2017,47.27646833
 Dominican Republic,DOM,Latin America & Caribbean,2017,39.75602689
 Algeria,DZA,Middle East & North Africa,2017,20.3956245
@@ -1590,20 +1365,15 @@ Ethiopia,ETH,Sub-Saharan Africa,2017,46.37534616
 Finland,FIN,Europe & Central Asia,2017,47.96454964
 Fiji,FJI,East Asia & Pacific,2017,32.89581165
 France,FRA,Europe & Central Asia,2017,47.79769835
-Faroe Islands,FRO,Europe & Central Asia,2017,NA
-Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2017,NA
 Gabon,GAB,Sub-Saharan Africa,2017,40.11973062
 United Kingdom,GBR,Europe & Central Asia,2017,46.76152181
 Georgia,GEO,Europe & Central Asia,2017,45.39380233
 Ghana,GHA,Sub-Saharan Africa,2017,46.46331162
-Gibraltar,GIB,Europe & Central Asia,2017,NA
 Guinea,GIN,Sub-Saharan Africa,2017,54.47281949
 Gambia - The,GMB,Sub-Saharan Africa,2017,43.86397713
 Guinea -Bissau,GNB,Sub-Saharan Africa,2017,47.74231175
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2017,36.82917557
 Greece,GRC,Europe & Central Asia,2017,44.0216323
-Grenada,GRD,Latin America & Caribbean,2017,NA
-Greenland,GRL,Europe & Central Asia,2017,NA
 Guatemala,GTM,Latin America & Caribbean,2017,33.04600933
 Guam,GUM,East Asia & Pacific,2017,40.77133947
 Guyana,GUY,Latin America & Caribbean,2017,38.52161326
@@ -1613,9 +1383,7 @@ Croatia,HRV,Europe & Central Asia,2017,46.16621242
 Haiti,HTI,Latin America & Caribbean,2017,48.07854569
 Hungary,HUN,Europe & Central Asia,2017,45.52997147
 Indonesia,IDN,East Asia & Pacific,2017,38.79602158
-Isle of Man,IMN,Europe & Central Asia,2017,NA
 India,IND,South Asia,2017,20.34339284
-Not classified,INX,South Asia,2017,NA
 Ireland,IRL,Europe & Central Asia,2017,45.67281585
 Iran - Islamic Rep.,IRN,Middle East & North Africa,2017,19.79694941
 Iraq,IRQ,Middle East & North Africa,2017,13.20847423
@@ -1629,8 +1397,6 @@ Kazakhstan,KAZ,Europe & Central Asia,2017,48.07515768
 Kenya,KEN,Sub-Saharan Africa,2017,48.8107795
 Kyrgyz Republic,KGZ,Europe & Central Asia,2017,39.22797142
 Cambodia,KHM,East Asia & Pacific,2017,48.99071478
-Kiribati,KIR,East Asia & Pacific,2017,NA
-St. Kitts and Nevis,KNA,Latin America & Caribbean,2017,NA
 Korea - Rep.,KOR,East Asia & Pacific,2017,42.14310227
 Kuwait,KWT,Middle East & North Africa,2017,26.15031213
 Lao PDR,LAO,East Asia & Pacific,2017,49.07287243
@@ -1638,28 +1404,23 @@ Lebanon,LBN,Middle East & North Africa,2017,24.3848111
 Liberia,LBR,Sub-Saharan Africa,2017,47.39945182
 Libya,LBY,Middle East & North Africa,2017,34.13026847
 St. Lucia,LCA,Latin America & Caribbean,2017,47.26831434
-Liechtenstein,LIE,Europe & Central Asia,2017,NA
 Sri Lanka,LKA,South Asia,2017,35.01021516
 Lesotho,LSO,Sub-Saharan Africa,2017,45.30676047
 Lithuania,LTU,Europe & Central Asia,2017,50.39542346
 Luxembourg,LUX,Europe & Central Asia,2017,45.7197536
 Latvia,LVA,Europe & Central Asia,2017,49.89035252
 Macao SAR - China,MAC,East Asia & Pacific,2017,48.64840685
-St. Martin (French part),MAF,Latin America & Caribbean,2017,NA
 Morocco,MAR,Middle East & North Africa,2017,24.12829169
-Monaco,MCO,Europe & Central Asia,2017,NA
 Moldova,MDA,Europe & Central Asia,2017,48.87559901
 Madagascar,MDG,Sub-Saharan Africa,2017,48.85762001
 Maldives,MDV,South Asia,2017,22.27383845
 Mexico,MEX,Latin America & Caribbean,2017,37.40909858
-Marshall Islands,MHL,East Asia & Pacific,2017,NA
 North Macedonia,MKD,Europe & Central Asia,2017,38.94901926
 Mali,MLI,Sub-Saharan Africa,2017,42.13240978
 Malta,MLT,Middle East & North Africa,2017,40.07094895
 Myanmar,MMR,East Asia & Pacific,2017,40.59131593
 Montenegro,MNE,Europe & Central Asia,2017,44.14565124
 Mongolia,MNG,East Asia & Pacific,2017,45.56921438
-Northern Mariana Islands,MNP,East Asia & Pacific,2017,NA
 Mozambique,MOZ,Sub-Saharan Africa,2017,52.23572258
 Mauritania,MRT,Sub-Saharan Africa,2017,30.84078007
 Mauritius,MUS,Sub-Saharan Africa,2017,38.94011225
@@ -1673,14 +1434,12 @@ Nicaragua,NIC,Latin America & Caribbean,2017,39.04161439
 Netherlands,NLD,Europe & Central Asia,2017,46.18386014
 Norway,NOR,Europe & Central Asia,2017,47.12324781
 Nepal,NPL,South Asia,2017,56.00585268
-Nauru,NRU,East Asia & Pacific,2017,NA
 New Zealand,NZL,East Asia & Pacific,2017,47.39463136
 Oman,OMN,Middle East & North Africa,2017,14.09851326
 Pakistan,PAK,South Asia,2017,20.72549103
 Panama,PAN,Latin America & Caribbean,2017,39.44892941
 Peru,PER,Latin America & Caribbean,2017,45.77312349
 Philippines,PHL,East Asia & Pacific,2017,38.21881416
-Palau,PLW,East Asia & Pacific,2017,NA
 Papua New Guinea,PNG,East Asia & Pacific,2017,48.70677616
 Poland,POL,Europe & Central Asia,2017,44.54107517
 Puerto Rico,PRI,Latin America & Caribbean,2017,42.82379431
@@ -1700,7 +1459,6 @@ Singapore,SGP,East Asia & Pacific,2017,41.58323289
 Solomon Islands,SLB,East Asia & Pacific,2017,48.65530743
 Sierra Leone,SLE,Sub-Saharan Africa,2017,49.607708
 El Salvador,SLV,Latin America & Caribbean,2017,41.8715845
-San Marino,SMR,Europe & Central Asia,2017,NA
 Somalia,SOM,Sub-Saharan Africa,2017,23.21243077
 Serbia,SRB,Europe & Central Asia,2017,44.51367148
 South Sudan,SSD,Sub-Saharan Africa,2017,49.21616798
@@ -1710,10 +1468,7 @@ Slovak Republic,SVK,Europe & Central Asia,2017,45.6194747
 Slovenia,SVN,Europe & Central Asia,2017,46.44078107
 Sweden,SWE,Europe & Central Asia,2017,47.64931155
 Eswatini,SWZ,Sub-Saharan Africa,2017,48.37545026
-Sint Maarten (Dutch part),SXM,Latin America & Caribbean,2017,NA
-Seychelles,SYC,Sub-Saharan Africa,2017,NA
 Syrian Arab Republic,SYR,Middle East & North Africa,2017,16.48940943
-Turks and Caicos Islands,TCA,Latin America & Caribbean,2017,NA
 Chad,TCD,Sub-Saharan Africa,2017,45.44671827
 Togo,TGO,Sub-Saharan Africa,2017,47.98679736
 Thailand,THA,East Asia & Pacific,2017,45.5722237
@@ -1724,7 +1479,6 @@ Tonga,TON,East Asia & Pacific,2017,41.33311969
 Trinidad and Tobago,TTO,Latin America & Caribbean,2017,42.42155948
 Tunisia,TUN,Middle East & North Africa,2017,27.66964983
 Turkey,TUR,Europe & Central Asia,2017,32.75555996
-Tuvalu,TUV,East Asia & Pacific,2017,NA
 Tanzania,TZA,Sub-Saharan Africa,2017,48.21337359
 Uganda,UGA,Sub-Saharan Africa,2017,49.2145843
 Ukraine,UKR,Europe & Central Asia,2017,47.24486547
@@ -1733,26 +1487,20 @@ United States,USA,North America,2017,46.02558447
 Uzbekistan,UZB,Europe & Central Asia,2017,40.31409579
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2017,41.28233971
 Venezuela - RB,VEN,Latin America & Caribbean,2017,38.91245126
-British Virgin Islands,VGB,Latin America & Caribbean,2017,NA
 Virgin Islands (U.S.),VIR,Latin America & Caribbean,2017,49.06297355
 Vietnam,VNM,East Asia & Pacific,2017,47.76778257
 Vanuatu,VUT,East Asia & Pacific,2017,43.57821089
 Samoa,WSM,East Asia & Pacific,2017,34.47707465
-Kosovo,XKX,Europe & Central Asia,2017,NA
 Yemen - Rep.,YEM,Middle East & North Africa,2017,7.913953827
 South Africa,ZAF,Sub-Saharan Africa,2017,45.15521679
 Zambia,ZMB,Sub-Saharan Africa,2017,48.15777304
 Zimbabwe,ZWE,Sub-Saharan Africa,2017,50.91957343
-Aruba,ABW,Latin America & Caribbean,2018,NA
 Afghanistan,AFG,South Asia,2018,21.24701514
 Angola,AGO,Sub-Saharan Africa,2018,50.20290562
 Albania,ALB,Europe & Central Asia,2018,42.19068734
-Andorra,AND,Europe & Central Asia,2018,NA
 United Arab Emirates,ARE,Middle East & North Africa,2018,17.4674074
 Argentina,ARG,Latin America & Caribbean,2018,43.00185537
 Armenia,ARM,Europe & Central Asia,2018,44.23162609
-American Samoa,ASM,East Asia & Pacific,2018,NA
-Antigua and Barbuda,ATG,Latin America & Caribbean,2018,NA
 Australia,AUS,East Asia & Pacific,2018,46.50039959
 Austria,AUT,Europe & Central Asia,2018,46.42890907
 Azerbaijan,AZE,Europe & Central Asia,2018,48.76010802
@@ -1767,7 +1515,6 @@ Bahamas,BHS,Latin America & Caribbean,2018,48.17653511
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2018,39.2009172
 Belarus,BLR,Europe & Central Asia,2018,49.03947986
 Belize,BLZ,Latin America & Caribbean,2018,38.70744932
-Bermuda,BMU,North America,2018,NA
 Bolivia,BOL,Latin America & Caribbean,2018,44.18632032
 Brazil,BRA,Latin America & Caribbean,2018,43.57820175
 Barbados,BRB,Latin America & Caribbean,2018,49.35105904
@@ -1789,13 +1536,10 @@ Comoros,COM,Sub-Saharan Africa,2018,37.46815196
 Cabo Verde,CPV,Sub-Saharan Africa,2018,43.97666729
 Costa Rica,CRI,Latin America & Caribbean,2018,38.89074927
 Cuba,CUB,Latin America & Caribbean,2018,38.9621019
-Curacao,CUW,Latin America & Caribbean,2018,NA
-Cayman Islands,CYM,Latin America & Caribbean,2018,NA
 Cyprus,CYP,Europe & Central Asia,2018,46.01673882
 Czech Republic,CZE,Europe & Central Asia,2018,44.70131083
 Germany,DEU,Europe & Central Asia,2018,46.31661769
 Djibouti,DJI,Middle East & North Africa,2018,39.75265799
-Dominica,DMA,Latin America & Caribbean,2018,NA
 Denmark,DNK,Europe & Central Asia,2018,47.16399685
 Dominican Republic,DOM,Latin America & Caribbean,2018,39.93861727
 Algeria,DZA,Middle East & North Africa,2018,20.12698179
@@ -1808,20 +1552,15 @@ Ethiopia,ETH,Sub-Saharan Africa,2018,46.47965643
 Finland,FIN,Europe & Central Asia,2018,48.01478135
 Fiji,FJI,East Asia & Pacific,2018,32.92068739
 France,FRA,Europe & Central Asia,2018,47.93225504
-Faroe Islands,FRO,Europe & Central Asia,2018,NA
-Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2018,NA
 Gabon,GAB,Sub-Saharan Africa,2018,40.00703039
 United Kingdom,GBR,Europe & Central Asia,2018,46.80893206
 Georgia,GEO,Europe & Central Asia,2018,46.42039974
 Ghana,GHA,Sub-Saharan Africa,2018,46.55622413
-Gibraltar,GIB,Europe & Central Asia,2018,NA
 Guinea,GIN,Sub-Saharan Africa,2018,54.46517183
 Gambia - The,GMB,Sub-Saharan Africa,2018,43.93994305
 Guinea -Bissau,GNB,Sub-Saharan Africa,2018,47.71141245
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2018,36.78038883
 Greece,GRC,Europe & Central Asia,2018,43.7303669
-Grenada,GRD,Latin America & Caribbean,2018,NA
-Greenland,GRL,Europe & Central Asia,2018,NA
 Guatemala,GTM,Latin America & Caribbean,2018,33.23798789
 Guam,GUM,East Asia & Pacific,2018,40.72628753
 Guyana,GUY,Latin America & Caribbean,2018,39.0269114
@@ -1831,9 +1570,7 @@ Croatia,HRV,Europe & Central Asia,2018,46.45368516
 Haiti,HTI,Latin America & Caribbean,2018,48.11985089
 Hungary,HUN,Europe & Central Asia,2018,45.45373284
 Indonesia,IDN,East Asia & Pacific,2018,39.2350474
-Isle of Man,IMN,Europe & Central Asia,2018,NA
 India,IND,South Asia,2018,20.20920814
-Not classified,INX,South Asia,2018,NA
 Ireland,IRL,Europe & Central Asia,2018,45.79965441
 Iran - Islamic Rep.,IRN,Middle East & North Africa,2018,19.59095275
 Iraq,IRQ,Middle East & North Africa,2018,13.26712103
@@ -1847,8 +1584,6 @@ Kazakhstan,KAZ,Europe & Central Asia,2018,48.0576579
 Kenya,KEN,Sub-Saharan Africa,2018,49.03362188
 Kyrgyz Republic,KGZ,Europe & Central Asia,2018,38.55875342
 Cambodia,KHM,East Asia & Pacific,2018,48.95809915
-Kiribati,KIR,East Asia & Pacific,2018,NA
-St. Kitts and Nevis,KNA,Latin America & Caribbean,2018,NA
 Korea - Rep.,KOR,East Asia & Pacific,2018,42.32771352
 Kuwait,KWT,Middle East & North Africa,2018,25.56467858
 Lao PDR,LAO,East Asia & Pacific,2018,49.07725478
@@ -1856,28 +1591,23 @@ Lebanon,LBN,Middle East & North Africa,2018,24.45515125
 Liberia,LBR,Sub-Saharan Africa,2018,47.46939266
 Libya,LBY,Middle East & North Africa,2018,34.10677629
 St. Lucia,LCA,Latin America & Caribbean,2018,47.42449518
-Liechtenstein,LIE,Europe & Central Asia,2018,NA
 Sri Lanka,LKA,South Asia,2018,33.54550278
 Lesotho,LSO,Sub-Saharan Africa,2018,45.34346515
 Lithuania,LTU,Europe & Central Asia,2018,50.23096515
 Luxembourg,LUX,Europe & Central Asia,2018,45.91504078
 Latvia,LVA,Europe & Central Asia,2018,49.94645862
 Macao SAR - China,MAC,East Asia & Pacific,2018,48.4386033
-St. Martin (French part),MAF,Latin America & Caribbean,2018,NA
 Morocco,MAR,Middle East & North Africa,2018,24.21548668
-Monaco,MCO,Europe & Central Asia,2018,NA
 Moldova,MDA,Europe & Central Asia,2018,48.43421523
 Madagascar,MDG,Sub-Saharan Africa,2018,48.89712214
 Maldives,MDV,South Asia,2018,21.11237151
 Mexico,MEX,Latin America & Caribbean,2018,37.69979125
-Marshall Islands,MHL,East Asia & Pacific,2018,NA
 North Macedonia,MKD,Europe & Central Asia,2018,39.1868367
 Mali,MLI,Sub-Saharan Africa,2018,42.17369563
 Malta,MLT,Middle East & North Africa,2018,40.98336417
 Myanmar,MMR,East Asia & Pacific,2018,41.02671176
 Montenegro,MNE,Europe & Central Asia,2018,43.61782777
 Mongolia,MNG,East Asia & Pacific,2018,44.26566968
-Northern Mariana Islands,MNP,East Asia & Pacific,2018,NA
 Mozambique,MOZ,Sub-Saharan Africa,2018,52.24761153
 Mauritania,MRT,Sub-Saharan Africa,2018,30.9403682
 Mauritius,MUS,Sub-Saharan Africa,2018,39.30427921
@@ -1891,14 +1621,12 @@ Nicaragua,NIC,Latin America & Caribbean,2018,38.75783168
 Netherlands,NLD,Europe & Central Asia,2018,46.19242829
 Norway,NOR,Europe & Central Asia,2018,46.98638337
 Nepal,NPL,South Asia,2018,55.95658548
-Nauru,NRU,East Asia & Pacific,2018,NA
 New Zealand,NZL,East Asia & Pacific,2018,47.59627645
 Oman,OMN,Middle East & North Africa,2018,15.51222596
 Pakistan,PAK,South Asia,2018,20.13498057
 Panama,PAN,Latin America & Caribbean,2018,40.29592737
 Peru,PER,Latin America & Caribbean,2018,45.86496556
 Philippines,PHL,East Asia & Pacific,2018,38.7572337
-Palau,PLW,East Asia & Pacific,2018,NA
 Papua New Guinea,PNG,East Asia & Pacific,2018,48.62511283
 Poland,POL,Europe & Central Asia,2018,44.63609168
 Puerto Rico,PRI,Latin America & Caribbean,2018,43.13243686
@@ -1918,7 +1646,6 @@ Singapore,SGP,East Asia & Pacific,2018,41.7532845
 Solomon Islands,SLB,East Asia & Pacific,2018,48.63798954
 Sierra Leone,SLE,Sub-Saharan Africa,2018,49.73717467
 El Salvador,SLV,Latin America & Caribbean,2018,41.86202049
-San Marino,SMR,Europe & Central Asia,2018,NA
 Somalia,SOM,Sub-Saharan Africa,2018,23.35420746
 Serbia,SRB,Europe & Central Asia,2018,44.46326683
 South Sudan,SSD,Sub-Saharan Africa,2018,49.31555195
@@ -1928,10 +1655,7 @@ Slovak Republic,SVK,Europe & Central Asia,2018,45.37134603
 Slovenia,SVN,Europe & Central Asia,2018,46.2026988
 Sweden,SWE,Europe & Central Asia,2018,47.70287115
 Eswatini,SWZ,Sub-Saharan Africa,2018,48.17153839
-Sint Maarten (Dutch part),SXM,Latin America & Caribbean,2018,NA
-Seychelles,SYC,Sub-Saharan Africa,2018,NA
 Syrian Arab Republic,SYR,Middle East & North Africa,2018,16.58748633
-Turks and Caicos Islands,TCA,Latin America & Caribbean,2018,NA
 Chad,TCD,Sub-Saharan Africa,2018,45.53572292
 Togo,TGO,Sub-Saharan Africa,2018,48.14389037
 Thailand,THA,East Asia & Pacific,2018,45.59243529
@@ -1942,7 +1666,6 @@ Tonga,TON,East Asia & Pacific,2018,41.53334187
 Trinidad and Tobago,TTO,Latin America & Caribbean,2018,42.42024117
 Tunisia,TUN,Middle East & North Africa,2018,27.53498856
 Turkey,TUR,Europe & Central Asia,2018,33.01700648
-Tuvalu,TUV,East Asia & Pacific,2018,NA
 Tanzania,TZA,Sub-Saharan Africa,2018,48.2353944
 Uganda,UGA,Sub-Saharan Africa,2018,49.34162253
 Ukraine,UKR,Europe & Central Asia,2018,47.26911414
@@ -1951,26 +1674,20 @@ United States,USA,North America,2018,46.05997764
 Uzbekistan,UZB,Europe & Central Asia,2018,40.2193656
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2018,41.50467273
 Venezuela - RB,VEN,Latin America & Caribbean,2018,38.46770244
-British Virgin Islands,VGB,Latin America & Caribbean,2018,NA
 Virgin Islands (U.S.),VIR,Latin America & Caribbean,2018,49.11561484
 Vietnam,VNM,East Asia & Pacific,2018,47.85387901
 Vanuatu,VUT,East Asia & Pacific,2018,43.57864127
 Samoa,WSM,East Asia & Pacific,2018,34.37705441
-Kosovo,XKX,Europe & Central Asia,2018,NA
 Yemen - Rep.,YEM,Middle East & North Africa,2018,7.895300313
 South Africa,ZAF,Sub-Saharan Africa,2018,45.28107547
 Zambia,ZMB,Sub-Saharan Africa,2018,48.29577227
 Zimbabwe,ZWE,Sub-Saharan Africa,2018,50.92813305
-Aruba,ABW,Latin America & Caribbean,2019,NA
 Afghanistan,AFG,South Asia,2019,21.60739534
 Angola,AGO,Sub-Saharan Africa,2019,50.27027561
 Albania,ALB,Europe & Central Asia,2019,43.04428204
-Andorra,AND,Europe & Central Asia,2019,NA
 United Arab Emirates,ARE,Middle East & North Africa,2019,17.47973737
 Argentina,ARG,Latin America & Caribbean,2019,43.2696281
 Armenia,ARM,Europe & Central Asia,2019,44.22542524
-American Samoa,ASM,East Asia & Pacific,2019,NA
-Antigua and Barbuda,ATG,Latin America & Caribbean,2019,NA
 Australia,AUS,East Asia & Pacific,2019,46.64160509
 Austria,AUT,Europe & Central Asia,2019,46.41774528
 Azerbaijan,AZE,Europe & Central Asia,2019,48.63162845
@@ -1985,7 +1702,6 @@ Bahamas,BHS,Latin America & Caribbean,2019,48.21617664
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2019,40.57771006
 Belarus,BLR,Europe & Central Asia,2019,48.95016443
 Belize,BLZ,Latin America & Caribbean,2019,38.79412931
-Bermuda,BMU,North America,2019,NA
 Bolivia,BOL,Latin America & Caribbean,2019,44.34343505
 Brazil,BRA,Latin America & Caribbean,2019,43.89710831
 Barbados,BRB,Latin America & Caribbean,2019,49.32461986
@@ -2007,13 +1723,10 @@ Comoros,COM,Sub-Saharan Africa,2019,37.68048796
 Cabo Verde,CPV,Sub-Saharan Africa,2019,44.21229304
 Costa Rica,CRI,Latin America & Caribbean,2019,40.52629263
 Cuba,CUB,Latin America & Caribbean,2019,38.84769734
-Curacao,CUW,Latin America & Caribbean,2019,NA
-Cayman Islands,CYM,Latin America & Caribbean,2019,NA
 Cyprus,CYP,Europe & Central Asia,2019,45.84621812
 Czech Republic,CZE,Europe & Central Asia,2019,44.6783986
 Germany,DEU,Europe & Central Asia,2019,46.29436164
 Djibouti,DJI,Middle East & North Africa,2019,39.88378376
-Dominica,DMA,Latin America & Caribbean,2019,NA
 Denmark,DNK,Europe & Central Asia,2019,47.07847868
 Dominican Republic,DOM,Latin America & Caribbean,2019,40.86491458
 Algeria,DZA,Middle East & North Africa,2019,19.88242407
@@ -2026,20 +1739,15 @@ Ethiopia,ETH,Sub-Saharan Africa,2019,46.58673609
 Finland,FIN,Europe & Central Asia,2019,47.99949799
 Fiji,FJI,East Asia & Pacific,2019,32.91691519
 France,FRA,Europe & Central Asia,2019,48.08574936
-Faroe Islands,FRO,Europe & Central Asia,2019,NA
-Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2019,NA
 Gabon,GAB,Sub-Saharan Africa,2019,39.9528526
 United Kingdom,GBR,Europe & Central Asia,2019,47.04181733
 Georgia,GEO,Europe & Central Asia,2019,46.39278112
 Ghana,GHA,Sub-Saharan Africa,2019,46.65673324
-Gibraltar,GIB,Europe & Central Asia,2019,NA
 Guinea,GIN,Sub-Saharan Africa,2019,54.45590021
 Gambia - The,GMB,Sub-Saharan Africa,2019,44.0468061
 Guinea -Bissau,GNB,Sub-Saharan Africa,2019,47.7003148
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2019,36.7188503
 Greece,GRC,Europe & Central Asia,2019,43.75330215
-Grenada,GRD,Latin America & Caribbean,2019,NA
-Greenland,GRL,Europe & Central Asia,2019,NA
 Guatemala,GTM,Latin America & Caribbean,2019,33.45458891
 Guam,GUM,East Asia & Pacific,2019,40.7112631
 Guyana,GUY,Latin America & Caribbean,2019,39.18651307
@@ -2049,9 +1757,7 @@ Croatia,HRV,Europe & Central Asia,2019,46.16084137
 Haiti,HTI,Latin America & Caribbean,2019,48.03732906
 Hungary,HUN,Europe & Central Asia,2019,45.23059649
 Indonesia,IDN,East Asia & Pacific,2019,39.52304428
-Isle of Man,IMN,Europe & Central Asia,2019,NA
 India,IND,South Asia,2019,20.31709151
-Not classified,INX,South Asia,2019,NA
 Ireland,IRL,Europe & Central Asia,2019,45.80771339
 Iran - Islamic Rep.,IRN,Middle East & North Africa,2019,19.3964252
 Iraq,IRQ,Middle East & North Africa,2019,13.38483962
@@ -2065,8 +1771,6 @@ Kazakhstan,KAZ,Europe & Central Asia,2019,48.04668344
 Kenya,KEN,Sub-Saharan Africa,2019,49.25690528
 Kyrgyz Republic,KGZ,Europe & Central Asia,2019,38.46977953
 Cambodia,KHM,East Asia & Pacific,2019,48.92461482
-Kiribati,KIR,East Asia & Pacific,2019,NA
-St. Kitts and Nevis,KNA,Latin America & Caribbean,2019,NA
 Korea - Rep.,KOR,East Asia & Pacific,2019,42.61249099
 Kuwait,KWT,Middle East & North Africa,2019,25.06919858
 Lao PDR,LAO,East Asia & Pacific,2019,49.08004606
@@ -2074,28 +1778,23 @@ Lebanon,LBN,Middle East & North Africa,2019,24.45566965
 Liberia,LBR,Sub-Saharan Africa,2019,47.52803444
 Libya,LBY,Middle East & North Africa,2019,34.09199717
 St. Lucia,LCA,Latin America & Caribbean,2019,48.4674754
-Liechtenstein,LIE,Europe & Central Asia,2019,NA
 Sri Lanka,LKA,South Asia,2019,33.74561614
 Lesotho,LSO,Sub-Saharan Africa,2019,45.39074846
 Lithuania,LTU,Europe & Central Asia,2019,50.48135043
 Luxembourg,LUX,Europe & Central Asia,2019,45.20680053
 Latvia,LVA,Europe & Central Asia,2019,50.0132652
 Macao SAR - China,MAC,East Asia & Pacific,2019,48.2534603
-St. Martin (French part),MAF,Latin America & Caribbean,2019,NA
 Morocco,MAR,Middle East & North Africa,2019,24.28025749
-Monaco,MCO,Europe & Central Asia,2019,NA
 Moldova,MDA,Europe & Central Asia,2019,48.55875068
 Madagascar,MDG,Sub-Saharan Africa,2019,48.93001352
 Maldives,MDV,South Asia,2019,20.1546899
 Mexico,MEX,Latin America & Caribbean,2019,38.48873994
-Marshall Islands,MHL,East Asia & Pacific,2019,NA
 North Macedonia,MKD,Europe & Central Asia,2019,40.72348325
 Mali,MLI,Sub-Saharan Africa,2019,42.23187193
 Malta,MLT,Middle East & North Africa,2019,41.90346594
 Myanmar,MMR,East Asia & Pacific,2019,40.22126098
 Montenegro,MNE,Europe & Central Asia,2019,44.0378819
 Mongolia,MNG,East Asia & Pacific,2019,45.06901227
-Northern Mariana Islands,MNP,East Asia & Pacific,2019,NA
 Mozambique,MOZ,Sub-Saharan Africa,2019,52.25936134
 Mauritania,MRT,Sub-Saharan Africa,2019,31.091029
 Mauritius,MUS,Sub-Saharan Africa,2019,39.64761198
@@ -2109,14 +1808,12 @@ Nicaragua,NIC,Latin America & Caribbean,2019,38.48822256
 Netherlands,NLD,Europe & Central Asia,2019,46.3616219
 Norway,NOR,Europe & Central Asia,2019,46.96891149
 Nepal,NPL,South Asia,2019,55.77130342
-Nauru,NRU,East Asia & Pacific,2019,NA
 New Zealand,NZL,East Asia & Pacific,2019,47.89140353
 Oman,OMN,Middle East & North Africa,2019,15.41496947
 Pakistan,PAK,South Asia,2019,20.12248489
 Panama,PAN,Latin America & Caribbean,2019,40.99632696
 Peru,PER,Latin America & Caribbean,2019,45.80471579
 Philippines,PHL,East Asia & Pacific,2019,39.35710411
-Palau,PLW,East Asia & Pacific,2019,NA
 Papua New Guinea,PNG,East Asia & Pacific,2019,48.67642887
 Poland,POL,Europe & Central Asia,2019,44.45802314
 Puerto Rico,PRI,Latin America & Caribbean,2019,43.60396129
@@ -2136,7 +1833,6 @@ Singapore,SGP,East Asia & Pacific,2019,41.7306806
 Solomon Islands,SLB,East Asia & Pacific,2019,48.61574611
 Sierra Leone,SLE,Sub-Saharan Africa,2019,49.92618641
 El Salvador,SLV,Latin America & Caribbean,2019,41.98802551
-San Marino,SMR,Europe & Central Asia,2019,NA
 Somalia,SOM,Sub-Saharan Africa,2019,23.51598387
 Serbia,SRB,Europe & Central Asia,2019,44.68464765
 South Sudan,SSD,Sub-Saharan Africa,2019,49.42174661
@@ -2146,10 +1842,7 @@ Slovak Republic,SVK,Europe & Central Asia,2019,45.42571661
 Slovenia,SVN,Europe & Central Asia,2019,46.4365437
 Sweden,SWE,Europe & Central Asia,2019,47.67822963
 Eswatini,SWZ,Sub-Saharan Africa,2019,48.01512136
-Sint Maarten (Dutch part),SXM,Latin America & Caribbean,2019,NA
-Seychelles,SYC,Sub-Saharan Africa,2019,NA
 Syrian Arab Republic,SYR,Middle East & North Africa,2019,16.67396627
-Turks and Caicos Islands,TCA,Latin America & Caribbean,2019,NA
 Chad,TCD,Sub-Saharan Africa,2019,45.64362216
 Togo,TGO,Sub-Saharan Africa,2019,48.33554229
 Thailand,THA,East Asia & Pacific,2019,45.68256795
@@ -2160,7 +1853,6 @@ Tonga,TON,East Asia & Pacific,2019,41.45881169
 Trinidad and Tobago,TTO,Latin America & Caribbean,2019,42.44210382
 Tunisia,TUN,Middle East & North Africa,2019,27.3629736
 Turkey,TUR,Europe & Central Asia,2019,33.27540632
-Tuvalu,TUV,East Asia & Pacific,2019,NA
 Tanzania,TZA,Sub-Saharan Africa,2019,48.25019709
 Uganda,UGA,Sub-Saharan Africa,2019,49.47626445
 Ukraine,UKR,Europe & Central Asia,2019,47.29892445
@@ -2169,12 +1861,10 @@ United States,USA,North America,2019,46.16362679
 Uzbekistan,UZB,Europe & Central Asia,2019,40.12350902
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2019,41.6440909
 Venezuela - RB,VEN,Latin America & Caribbean,2019,37.22027849
-British Virgin Islands,VGB,Latin America & Caribbean,2019,NA
 Virgin Islands (U.S.),VIR,Latin America & Caribbean,2019,49.14504318
 Vietnam,VNM,East Asia & Pacific,2019,47.86879036
 Vanuatu,VUT,East Asia & Pacific,2019,43.57236248
 Samoa,WSM,East Asia & Pacific,2019,34.40663404
-Kosovo,XKX,Europe & Central Asia,2019,NA
 Yemen - Rep.,YEM,Middle East & North Africa,2019,7.881055744
 South Africa,ZAF,Sub-Saharan Africa,2019,45.30855772
 Zambia,ZMB,Sub-Saharan Africa,2019,48.42099138
