@@ -16,7 +16,7 @@ Burkina Faso,BFA,Sub-Saharan Africa,2013,6
 Bangladesh,BGD,South Asia,2013,5
 Bulgaria,BGR,Europe & Central Asia,2013,8
 Bahrain,BHR,Middle East & North Africa,2013,1
-Bahamas, The,BHS,Latin America & Caribbean,2013,6
+Bahamas - The,BHS,Latin America & Caribbean,2013,6
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2013,7
 Belarus,BLR,Europe & Central Asia,2013,1
 Belize,BLZ,Latin America & Caribbean,2013,4
@@ -33,8 +33,8 @@ Chile,CHL,Latin America & Caribbean,2013,4
 China,CHN,East Asia & Pacific,2013,4
 Cote d'Ivoire,CIV,Sub-Saharan Africa,2013,6
 Cameroon,CMR,Sub-Saharan Africa,2013,6
-Congo, Dem. Rep.,COD,Sub-Saharan Africa,2013,6
-Congo, Rep.,COG,Sub-Saharan Africa,2013,6
+Congo - Dem. Rep.,COD,Sub-Saharan Africa,2013,6
+Congo - Rep.,COG,Sub-Saharan Africa,2013,6
 Colombia,COL,Latin America & Caribbean,2013,3
 Comoros,COM,Sub-Saharan Africa,2013,6
 Cabo Verde,CPV,Sub-Saharan Africa,2013,1
@@ -48,7 +48,7 @@ Denmark,DNK,Europe & Central Asia,2013,8
 Dominican Republic,DOM,Latin America & Caribbean,2013,1
 Algeria,DZA,Middle East & North Africa,2013,2
 Ecuador,ECU,Latin America & Caribbean,2013,1
-Egypt, Arab Rep.,EGY,Middle East & North Africa,2013,2
+Egypt - Arab Rep.,EGY,Middle East & North Africa,2013,2
 Eritrea,ERI,Sub-Saharan Africa,2013,0
 Spain,ESP,Europe & Central Asia,2013,5
 Estonia,EST,Europe & Central Asia,2013,7
@@ -56,20 +56,20 @@ Ethiopia,ETH,Sub-Saharan Africa,2013,3
 Finland,FIN,Europe & Central Asia,2013,6
 Fiji,FJI,East Asia & Pacific,2013,5
 France,FRA,Europe & Central Asia,2013,4
-Micronesia, Fed. Sts.,FSM,East Asia & Pacific,2013,10
+Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2013,10
 Gabon,GAB,Sub-Saharan Africa,2013,6
 United Kingdom,GBR,Europe & Central Asia,2013,7
 Georgia,GEO,Europe & Central Asia,2013,9
 Ghana,GHA,Sub-Saharan Africa,2013,6
 Guinea,GIN,Sub-Saharan Africa,2013,6
-Gambia, The,GMB,Sub-Saharan Africa,2013,4
+Gambia - The,GMB,Sub-Saharan Africa,2013,4
 Guinea-Bissau,GNB,Sub-Saharan Africa,2013,6
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2013,6
 Greece,GRC,Europe & Central Asia,2013,2
 Grenada,GRD,Latin America & Caribbean,2013,6
 Guatemala,GTM,Latin America & Caribbean,2013,9
 Guyana,GUY,Latin America & Caribbean,2013,3
-Hong Kong SAR, China,HKG,East Asia & Pacific,2013,7
+Hong Kong SAR - China,HKG,East Asia & Pacific,2013,7
 Honduras,HND,Latin America & Caribbean,2013,9
 Croatia,HRV,Europe & Central Asia,2013,5
 Haiti,HTI,Latin America & Caribbean,2013,2
@@ -77,7 +77,7 @@ Hungary,HUN,Europe & Central Asia,2013,6
 Indonesia,IDN,East Asia & Pacific,2013,4
 India,IND,South Asia,2013,6
 Ireland,IRL,Europe & Central Asia,2013,7
-Iran, Islamic Rep.,IRN,Middle East & North Africa,2013,2
+Iran - Islamic Rep.,IRN,Middle East & North Africa,2013,2
 Iraq,IRQ,Middle East & North Africa,2013,0
 Iceland,ISL,Europe & Central Asia,2013,4
 Israel,ISR,Middle East & North Africa,2013,6
@@ -91,7 +91,7 @@ Kyrgyz Republic,KGZ,Europe & Central Asia,2013,8
 Cambodia,KHM,East Asia & Pacific,2013,10
 Kiribati,KIR,East Asia & Pacific,2013,4
 St. Kitts and Nevis,KNA,Latin America & Caribbean,2013,5
-Korea, Rep.,KOR,East Asia & Pacific,2013,5
+Korea - Rep.,KOR,East Asia & Pacific,2013,5
 Kuwait,KWT,Middle East & North Africa,2013,1
 Lao PDR,LAO,East Asia & Pacific,2013,2
 Lebanon,LBN,Middle East & North Africa,2013,2
@@ -178,12 +178,12 @@ Uruguay,URY,Latin America & Caribbean,2013,4
 United States,USA,North America,2013,11
 Uzbekistan,UZB,Europe & Central Asia,2013,1
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2013,5
-Venezuela, RB,VEN,Latin America & Caribbean,2013,1
+Venezuela - RB,VEN,Latin America & Caribbean,2013,1
 Vietnam,VNM,East Asia & Pacific,2013,7
 Vanuatu,VUT,East Asia & Pacific,2013,10
 Samoa,WSM,East Asia & Pacific,2013,5
 Kosovo,XKX,Europe & Central Asia,2013,9
-Yemen, Rep.,YEM,Middle East & North Africa,2013,0
+Yemen - Rep.,YEM,Middle East & North Africa,2013,0
 South Africa,ZAF,Sub-Saharan Africa,2013,5
 Zambia,ZMB,Sub-Saharan Africa,2013,7
 Zimbabwe,ZWE,Sub-Saharan Africa,2013,5
@@ -204,7 +204,7 @@ Burkina Faso,BFA,Sub-Saharan Africa,2014,6
 Bangladesh,BGD,South Asia,2014,5
 Bulgaria,BGR,Europe & Central Asia,2014,8
 Bahrain,BHR,Middle East & North Africa,2014,1
-Bahamas, The,BHS,Latin America & Caribbean,2014,6
+Bahamas - The,BHS,Latin America & Caribbean,2014,6
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2014,7
 Belarus,BLR,Europe & Central Asia,2014,1
 Belize,BLZ,Latin America & Caribbean,2014,4
@@ -221,8 +221,8 @@ Chile,CHL,Latin America & Caribbean,2014,4
 China,CHN,East Asia & Pacific,2014,4
 Cote d'Ivoire,CIV,Sub-Saharan Africa,2014,6
 Cameroon,CMR,Sub-Saharan Africa,2014,6
-Congo, Dem. Rep.,COD,Sub-Saharan Africa,2014,6
-Congo, Rep.,COG,Sub-Saharan Africa,2014,6
+Congo - Dem. Rep.,COD,Sub-Saharan Africa,2014,6
+Congo - Rep.,COG,Sub-Saharan Africa,2014,6
 Colombia,COL,Latin America & Caribbean,2014,11
 Comoros,COM,Sub-Saharan Africa,2014,6
 Cabo Verde,CPV,Sub-Saharan Africa,2014,1
@@ -236,7 +236,7 @@ Denmark,DNK,Europe & Central Asia,2014,8
 Dominican Republic,DOM,Latin America & Caribbean,2014,1
 Algeria,DZA,Middle East & North Africa,2014,2
 Ecuador,ECU,Latin America & Caribbean,2014,1
-Egypt, Arab Rep.,EGY,Middle East & North Africa,2014,2
+Egypt - Arab Rep.,EGY,Middle East & North Africa,2014,2
 Eritrea,ERI,Sub-Saharan Africa,2014,0
 Spain,ESP,Europe & Central Asia,2014,5
 Estonia,EST,Europe & Central Asia,2014,7
@@ -244,20 +244,20 @@ Ethiopia,ETH,Sub-Saharan Africa,2014,3
 Finland,FIN,Europe & Central Asia,2014,6
 Fiji,FJI,East Asia & Pacific,2014,5
 France,FRA,Europe & Central Asia,2014,4
-Micronesia, Fed. Sts.,FSM,East Asia & Pacific,2014,10
+Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2014,10
 Gabon,GAB,Sub-Saharan Africa,2014,6
 United Kingdom,GBR,Europe & Central Asia,2014,7
 Georgia,GEO,Europe & Central Asia,2014,9
 Ghana,GHA,Sub-Saharan Africa,2014,6
 Guinea,GIN,Sub-Saharan Africa,2014,6
-Gambia, The,GMB,Sub-Saharan Africa,2014,4
+Gambia - The,GMB,Sub-Saharan Africa,2014,4
 Guinea-Bissau,GNB,Sub-Saharan Africa,2014,6
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2014,6
 Greece,GRC,Europe & Central Asia,2014,2
 Grenada,GRD,Latin America & Caribbean,2014,6
 Guatemala,GTM,Latin America & Caribbean,2014,9
 Guyana,GUY,Latin America & Caribbean,2014,3
-Hong Kong SAR, China,HKG,East Asia & Pacific,2014,7
+Hong Kong SAR - China,HKG,East Asia & Pacific,2014,7
 Honduras,HND,Latin America & Caribbean,2014,8
 Croatia,HRV,Europe & Central Asia,2014,5
 Haiti,HTI,Latin America & Caribbean,2014,2
@@ -265,7 +265,7 @@ Hungary,HUN,Europe & Central Asia,2014,9
 Indonesia,IDN,East Asia & Pacific,2014,4
 India,IND,South Asia,2014,6
 Ireland,IRL,Europe & Central Asia,2014,7
-Iran, Islamic Rep.,IRN,Middle East & North Africa,2014,2
+Iran - Islamic Rep.,IRN,Middle East & North Africa,2014,2
 Iraq,IRQ,Middle East & North Africa,2014,0
 Iceland,ISL,Europe & Central Asia,2014,4
 Israel,ISR,Middle East & North Africa,2014,6
@@ -279,7 +279,7 @@ Kyrgyz Republic,KGZ,Europe & Central Asia,2014,8
 Cambodia,KHM,East Asia & Pacific,2014,10
 Kiribati,KIR,East Asia & Pacific,2014,4
 St. Kitts and Nevis,KNA,Latin America & Caribbean,2014,5
-Korea, Rep.,KOR,East Asia & Pacific,2014,5
+Korea - Rep.,KOR,East Asia & Pacific,2014,5
 Kuwait,KWT,Middle East & North Africa,2014,1
 Lao PDR,LAO,East Asia & Pacific,2014,6
 Lebanon,LBN,Middle East & North Africa,2014,2
@@ -366,12 +366,12 @@ Uruguay,URY,Latin America & Caribbean,2014,4
 United States,USA,North America,2014,11
 Uzbekistan,UZB,Europe & Central Asia,2014,1
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2014,5
-Venezuela, RB,VEN,Latin America & Caribbean,2014,1
+Venezuela - RB,VEN,Latin America & Caribbean,2014,1
 Vietnam,VNM,East Asia & Pacific,2014,7
 Vanuatu,VUT,East Asia & Pacific,2014,10
 Samoa,WSM,East Asia & Pacific,2014,5
 Kosovo,XKX,Europe & Central Asia,2014,9
-Yemen, Rep.,YEM,Middle East & North Africa,2014,0
+Yemen - Rep.,YEM,Middle East & North Africa,2014,0
 South Africa,ZAF,Sub-Saharan Africa,2014,5
 Zambia,ZMB,Sub-Saharan Africa,2014,7
 Zimbabwe,ZWE,Sub-Saharan Africa,2014,5
@@ -392,7 +392,7 @@ Burkina Faso,BFA,Sub-Saharan Africa,2015,6
 Bangladesh,BGD,South Asia,2015,5
 Bulgaria,BGR,Europe & Central Asia,2015,8
 Bahrain,BHR,Middle East & North Africa,2015,1
-Bahamas, The,BHS,Latin America & Caribbean,2015,6
+Bahamas - The,BHS,Latin America & Caribbean,2015,6
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2015,7
 Belarus,BLR,Europe & Central Asia,2015,1
 Belize,BLZ,Latin America & Caribbean,2015,4
@@ -409,8 +409,8 @@ Chile,CHL,Latin America & Caribbean,2015,4
 China,CHN,East Asia & Pacific,2015,4
 Cote d'Ivoire,CIV,Sub-Saharan Africa,2015,6
 Cameroon,CMR,Sub-Saharan Africa,2015,6
-Congo, Dem. Rep.,COD,Sub-Saharan Africa,2015,6
-Congo, Rep.,COG,Sub-Saharan Africa,2015,6
+Congo - Dem. Rep.,COD,Sub-Saharan Africa,2015,6
+Congo - Rep.,COG,Sub-Saharan Africa,2015,6
 Colombia,COL,Latin America & Caribbean,2015,11
 Comoros,COM,Sub-Saharan Africa,2015,6
 Cabo Verde,CPV,Sub-Saharan Africa,2015,1
@@ -424,7 +424,7 @@ Denmark,DNK,Europe & Central Asia,2015,8
 Dominican Republic,DOM,Latin America & Caribbean,2015,1
 Algeria,DZA,Middle East & North Africa,2015,2
 Ecuador,ECU,Latin America & Caribbean,2015,1
-Egypt, Arab Rep.,EGY,Middle East & North Africa,2015,2
+Egypt - Arab Rep.,EGY,Middle East & North Africa,2015,2
 Eritrea,ERI,Sub-Saharan Africa,2015,0
 Spain,ESP,Europe & Central Asia,2015,5
 Estonia,EST,Europe & Central Asia,2015,7
@@ -432,20 +432,20 @@ Ethiopia,ETH,Sub-Saharan Africa,2015,3
 Finland,FIN,Europe & Central Asia,2015,6
 Fiji,FJI,East Asia & Pacific,2015,5
 France,FRA,Europe & Central Asia,2015,4
-Micronesia, Fed. Sts.,FSM,East Asia & Pacific,2015,10
+Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2015,10
 Gabon,GAB,Sub-Saharan Africa,2015,6
 United Kingdom,GBR,Europe & Central Asia,2015,7
 Georgia,GEO,Europe & Central Asia,2015,9
 Ghana,GHA,Sub-Saharan Africa,2015,6
 Guinea,GIN,Sub-Saharan Africa,2015,6
-Gambia, The,GMB,Sub-Saharan Africa,2015,4
+Gambia - The,GMB,Sub-Saharan Africa,2015,4
 Guinea-Bissau,GNB,Sub-Saharan Africa,2015,6
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2015,6
 Greece,GRC,Europe & Central Asia,2015,2
 Grenada,GRD,Latin America & Caribbean,2015,6
 Guatemala,GTM,Latin America & Caribbean,2015,9
 Guyana,GUY,Latin America & Caribbean,2015,3
-Hong Kong SAR, China,HKG,East Asia & Pacific,2015,8
+Hong Kong SAR - China,HKG,East Asia & Pacific,2015,8
 Honduras,HND,Latin America & Caribbean,2015,8
 Croatia,HRV,Europe & Central Asia,2015,5
 Haiti,HTI,Latin America & Caribbean,2015,2
@@ -453,7 +453,7 @@ Hungary,HUN,Europe & Central Asia,2015,9
 Indonesia,IDN,East Asia & Pacific,2015,5
 India,IND,South Asia,2015,6
 Ireland,IRL,Europe & Central Asia,2015,7
-Iran, Islamic Rep.,IRN,Middle East & North Africa,2015,2
+Iran - Islamic Rep.,IRN,Middle East & North Africa,2015,2
 Iraq,IRQ,Middle East & North Africa,2015,0
 Iceland,ISL,Europe & Central Asia,2015,4
 Israel,ISR,Middle East & North Africa,2015,6
@@ -467,7 +467,7 @@ Kyrgyz Republic,KGZ,Europe & Central Asia,2015,8
 Cambodia,KHM,East Asia & Pacific,2015,10
 Kiribati,KIR,East Asia & Pacific,2015,4
 St. Kitts and Nevis,KNA,Latin America & Caribbean,2015,5
-Korea, Rep.,KOR,East Asia & Pacific,2015,5
+Korea - Rep.,KOR,East Asia & Pacific,2015,5
 Kuwait,KWT,Middle East & North Africa,2015,1
 Lao PDR,LAO,East Asia & Pacific,2015,6
 Lebanon,LBN,Middle East & North Africa,2015,2
@@ -554,12 +554,12 @@ Uruguay,URY,Latin America & Caribbean,2015,4
 United States,USA,North America,2015,11
 Uzbekistan,UZB,Europe & Central Asia,2015,6
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2015,5
-Venezuela, RB,VEN,Latin America & Caribbean,2015,1
+Venezuela - RB,VEN,Latin America & Caribbean,2015,1
 Vietnam,VNM,East Asia & Pacific,2015,7
 Vanuatu,VUT,East Asia & Pacific,2015,10
 Samoa,WSM,East Asia & Pacific,2015,5
 Kosovo,XKX,Europe & Central Asia,2015,9
-Yemen, Rep.,YEM,Middle East & North Africa,2015,0
+Yemen - Rep.,YEM,Middle East & North Africa,2015,0
 South Africa,ZAF,Sub-Saharan Africa,2015,5
 Zambia,ZMB,Sub-Saharan Africa,2015,7
 Zimbabwe,ZWE,Sub-Saharan Africa,2015,5
@@ -580,7 +580,7 @@ Burkina Faso,BFA,Sub-Saharan Africa,2016,6
 Bangladesh,BGD,South Asia,2016,5
 Bulgaria,BGR,Europe & Central Asia,2016,8
 Bahrain,BHR,Middle East & North Africa,2016,1
-Bahamas, The,BHS,Latin America & Caribbean,2016,6
+Bahamas - The,BHS,Latin America & Caribbean,2016,6
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2016,7
 Belarus,BLR,Europe & Central Asia,2016,1
 Belize,BLZ,Latin America & Caribbean,2016,4
@@ -597,8 +597,8 @@ Chile,CHL,Latin America & Caribbean,2016,4
 China,CHN,East Asia & Pacific,2016,4
 Cote d'Ivoire,CIV,Sub-Saharan Africa,2016,6
 Cameroon,CMR,Sub-Saharan Africa,2016,6
-Congo, Dem. Rep.,COD,Sub-Saharan Africa,2016,6
-Congo, Rep.,COG,Sub-Saharan Africa,2016,6
+Congo - Dem. Rep.,COD,Sub-Saharan Africa,2016,6
+Congo - Rep.,COG,Sub-Saharan Africa,2016,6
 Colombia,COL,Latin America & Caribbean,2016,11
 Comoros,COM,Sub-Saharan Africa,2016,6
 Cabo Verde,CPV,Sub-Saharan Africa,2016,1
@@ -612,7 +612,7 @@ Denmark,DNK,Europe & Central Asia,2016,8
 Dominican Republic,DOM,Latin America & Caribbean,2016,1
 Algeria,DZA,Middle East & North Africa,2016,2
 Ecuador,ECU,Latin America & Caribbean,2016,1
-Egypt, Arab Rep.,EGY,Middle East & North Africa,2016,2
+Egypt - Arab Rep.,EGY,Middle East & North Africa,2016,2
 Eritrea,ERI,Sub-Saharan Africa,2016,0
 Spain,ESP,Europe & Central Asia,2016,5
 Estonia,EST,Europe & Central Asia,2016,7
@@ -620,20 +620,20 @@ Ethiopia,ETH,Sub-Saharan Africa,2016,3
 Finland,FIN,Europe & Central Asia,2016,6
 Fiji,FJI,East Asia & Pacific,2016,5
 France,FRA,Europe & Central Asia,2016,4
-Micronesia, Fed. Sts.,FSM,East Asia & Pacific,2016,10
+Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2016,10
 Gabon,GAB,Sub-Saharan Africa,2016,6
 United Kingdom,GBR,Europe & Central Asia,2016,7
 Georgia,GEO,Europe & Central Asia,2016,9
 Ghana,GHA,Sub-Saharan Africa,2016,6
 Guinea,GIN,Sub-Saharan Africa,2016,6
-Gambia, The,GMB,Sub-Saharan Africa,2016,6
+Gambia - The,GMB,Sub-Saharan Africa,2016,6
 Guinea-Bissau,GNB,Sub-Saharan Africa,2016,6
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2016,6
 Greece,GRC,Europe & Central Asia,2016,2
 Grenada,GRD,Latin America & Caribbean,2016,6
 Guatemala,GTM,Latin America & Caribbean,2016,9
 Guyana,GUY,Latin America & Caribbean,2016,3
-Hong Kong SAR, China,HKG,East Asia & Pacific,2016,8
+Hong Kong SAR - China,HKG,East Asia & Pacific,2016,8
 Honduras,HND,Latin America & Caribbean,2016,8
 Croatia,HRV,Europe & Central Asia,2016,5
 Haiti,HTI,Latin America & Caribbean,2016,2
@@ -641,7 +641,7 @@ Hungary,HUN,Europe & Central Asia,2016,9
 Indonesia,IDN,East Asia & Pacific,2016,6
 India,IND,South Asia,2016,6
 Ireland,IRL,Europe & Central Asia,2016,7
-Iran, Islamic Rep.,IRN,Middle East & North Africa,2016,2
+Iran - Islamic Rep.,IRN,Middle East & North Africa,2016,2
 Iraq,IRQ,Middle East & North Africa,2016,0
 Iceland,ISL,Europe & Central Asia,2016,4
 Israel,ISR,Middle East & North Africa,2016,6
@@ -655,7 +655,7 @@ Kyrgyz Republic,KGZ,Europe & Central Asia,2016,8
 Cambodia,KHM,East Asia & Pacific,2016,10
 Kiribati,KIR,East Asia & Pacific,2016,4
 St. Kitts and Nevis,KNA,Latin America & Caribbean,2016,5
-Korea, Rep.,KOR,East Asia & Pacific,2016,5
+Korea - Rep.,KOR,East Asia & Pacific,2016,5
 Kuwait,KWT,Middle East & North Africa,2016,1
 Lao PDR,LAO,East Asia & Pacific,2016,6
 Lebanon,LBN,Middle East & North Africa,2016,2
@@ -742,12 +742,12 @@ Uruguay,URY,Latin America & Caribbean,2016,4
 United States,USA,North America,2016,11
 Uzbekistan,UZB,Europe & Central Asia,2016,6
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2016,5
-Venezuela, RB,VEN,Latin America & Caribbean,2016,1
+Venezuela - RB,VEN,Latin America & Caribbean,2016,1
 Vietnam,VNM,East Asia & Pacific,2016,7
 Vanuatu,VUT,East Asia & Pacific,2016,11
 Samoa,WSM,East Asia & Pacific,2016,5
 Kosovo,XKX,Europe & Central Asia,2016,9
-Yemen, Rep.,YEM,Middle East & North Africa,2016,0
+Yemen - Rep.,YEM,Middle East & North Africa,2016,0
 South Africa,ZAF,Sub-Saharan Africa,2016,5
 Zambia,ZMB,Sub-Saharan Africa,2016,7
 Zimbabwe,ZWE,Sub-Saharan Africa,2016,5
@@ -768,7 +768,7 @@ Burkina Faso,BFA,Sub-Saharan Africa,2017,6
 Bangladesh,BGD,South Asia,2017,5
 Bulgaria,BGR,Europe & Central Asia,2017,8
 Bahrain,BHR,Middle East & North Africa,2017,1
-Bahamas, The,BHS,Latin America & Caribbean,2017,6
+Bahamas - The,BHS,Latin America & Caribbean,2017,6
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2017,7
 Belarus,BLR,Europe & Central Asia,2017,3
 Belize,BLZ,Latin America & Caribbean,2017,4
@@ -785,8 +785,8 @@ Chile,CHL,Latin America & Caribbean,2017,4
 China,CHN,East Asia & Pacific,2017,4
 Cote d'Ivoire,CIV,Sub-Saharan Africa,2017,6
 Cameroon,CMR,Sub-Saharan Africa,2017,6
-Congo, Dem. Rep.,COD,Sub-Saharan Africa,2017,6
-Congo, Rep.,COG,Sub-Saharan Africa,2017,6
+Congo - Dem. Rep.,COD,Sub-Saharan Africa,2017,6
+Congo - Rep.,COG,Sub-Saharan Africa,2017,6
 Colombia,COL,Latin America & Caribbean,2017,11
 Comoros,COM,Sub-Saharan Africa,2017,6
 Cabo Verde,CPV,Sub-Saharan Africa,2017,1
@@ -800,7 +800,7 @@ Denmark,DNK,Europe & Central Asia,2017,8
 Dominican Republic,DOM,Latin America & Caribbean,2017,1
 Algeria,DZA,Middle East & North Africa,2017,2
 Ecuador,ECU,Latin America & Caribbean,2017,1
-Egypt, Arab Rep.,EGY,Middle East & North Africa,2017,2
+Egypt - Arab Rep.,EGY,Middle East & North Africa,2017,2
 Eritrea,ERI,Sub-Saharan Africa,2017,0
 Spain,ESP,Europe & Central Asia,2017,5
 Estonia,EST,Europe & Central Asia,2017,7
@@ -808,20 +808,20 @@ Ethiopia,ETH,Sub-Saharan Africa,2017,3
 Finland,FIN,Europe & Central Asia,2017,6
 Fiji,FJI,East Asia & Pacific,2017,5
 France,FRA,Europe & Central Asia,2017,4
-Micronesia, Fed. Sts.,FSM,East Asia & Pacific,2017,10
+Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2017,10
 Gabon,GAB,Sub-Saharan Africa,2017,6
 United Kingdom,GBR,Europe & Central Asia,2017,7
 Georgia,GEO,Europe & Central Asia,2017,9
 Ghana,GHA,Sub-Saharan Africa,2017,6
 Guinea,GIN,Sub-Saharan Africa,2017,6
-Gambia, The,GMB,Sub-Saharan Africa,2017,6
+Gambia - The,GMB,Sub-Saharan Africa,2017,6
 Guinea-Bissau,GNB,Sub-Saharan Africa,2017,6
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2017,6
 Greece,GRC,Europe & Central Asia,2017,2
 Grenada,GRD,Latin America & Caribbean,2017,6
 Guatemala,GTM,Latin America & Caribbean,2017,9
 Guyana,GUY,Latin America & Caribbean,2017,3
-Hong Kong SAR, China,HKG,East Asia & Pacific,2017,8
+Hong Kong SAR - China,HKG,East Asia & Pacific,2017,8
 Honduras,HND,Latin America & Caribbean,2017,8
 Croatia,HRV,Europe & Central Asia,2017,5
 Haiti,HTI,Latin America & Caribbean,2017,2
@@ -829,7 +829,7 @@ Hungary,HUN,Europe & Central Asia,2017,9
 Indonesia,IDN,East Asia & Pacific,2017,6
 India,IND,South Asia,2017,8
 Ireland,IRL,Europe & Central Asia,2017,7
-Iran, Islamic Rep.,IRN,Middle East & North Africa,2017,2
+Iran - Islamic Rep.,IRN,Middle East & North Africa,2017,2
 Iraq,IRQ,Middle East & North Africa,2017,0
 Iceland,ISL,Europe & Central Asia,2017,4
 Israel,ISR,Middle East & North Africa,2017,6
@@ -843,7 +843,7 @@ Kyrgyz Republic,KGZ,Europe & Central Asia,2017,9
 Cambodia,KHM,East Asia & Pacific,2017,10
 Kiribati,KIR,East Asia & Pacific,2017,4
 St. Kitts and Nevis,KNA,Latin America & Caribbean,2017,5
-Korea, Rep.,KOR,East Asia & Pacific,2017,5
+Korea - Rep.,KOR,East Asia & Pacific,2017,5
 Kuwait,KWT,Middle East & North Africa,2017,1
 Lao PDR,LAO,East Asia & Pacific,2017,6
 Lebanon,LBN,Middle East & North Africa,2017,2
@@ -930,12 +930,12 @@ Uruguay,URY,Latin America & Caribbean,2017,4
 United States,USA,North America,2017,11
 Uzbekistan,UZB,Europe & Central Asia,2017,6
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2017,5
-Venezuela, RB,VEN,Latin America & Caribbean,2017,1
+Venezuela - RB,VEN,Latin America & Caribbean,2017,1
 Vietnam,VNM,East Asia & Pacific,2017,8
 Vanuatu,VUT,East Asia & Pacific,2017,11
 Samoa,WSM,East Asia & Pacific,2017,9
 Kosovo,XKX,Europe & Central Asia,2017,11
-Yemen, Rep.,YEM,Middle East & North Africa,2017,0
+Yemen - Rep.,YEM,Middle East & North Africa,2017,0
 South Africa,ZAF,Sub-Saharan Africa,2017,5
 Zambia,ZMB,Sub-Saharan Africa,2017,11
 Zimbabwe,ZWE,Sub-Saharan Africa,2017,5
@@ -956,7 +956,7 @@ Burkina Faso,BFA,Sub-Saharan Africa,2018,6
 Bangladesh,BGD,South Asia,2018,5
 Bulgaria,BGR,Europe & Central Asia,2018,8
 Bahrain,BHR,Middle East & North Africa,2018,1
-Bahamas, The,BHS,Latin America & Caribbean,2018,6
+Bahamas - The,BHS,Latin America & Caribbean,2018,6
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2018,7
 Belarus,BLR,Europe & Central Asia,2018,3
 Belize,BLZ,Latin America & Caribbean,2018,4
@@ -973,8 +973,8 @@ Chile,CHL,Latin America & Caribbean,2018,4
 China,CHN,East Asia & Pacific,2018,4
 Cote d'Ivoire,CIV,Sub-Saharan Africa,2018,6
 Cameroon,CMR,Sub-Saharan Africa,2018,6
-Congo, Dem. Rep.,COD,Sub-Saharan Africa,2018,6
-Congo, Rep.,COG,Sub-Saharan Africa,2018,6
+Congo - Dem. Rep.,COD,Sub-Saharan Africa,2018,6
+Congo - Rep.,COG,Sub-Saharan Africa,2018,6
 Colombia,COL,Latin America & Caribbean,2018,11
 Comoros,COM,Sub-Saharan Africa,2018,6
 Cabo Verde,CPV,Sub-Saharan Africa,2018,1
@@ -988,7 +988,7 @@ Denmark,DNK,Europe & Central Asia,2018,8
 Dominican Republic,DOM,Latin America & Caribbean,2018,1
 Algeria,DZA,Middle East & North Africa,2018,2
 Ecuador,ECU,Latin America & Caribbean,2018,1
-Egypt, Arab Rep.,EGY,Middle East & North Africa,2018,5
+Egypt - Arab Rep.,EGY,Middle East & North Africa,2018,5
 Eritrea,ERI,Sub-Saharan Africa,2018,0
 Spain,ESP,Europe & Central Asia,2018,5
 Estonia,EST,Europe & Central Asia,2018,7
@@ -996,20 +996,20 @@ Ethiopia,ETH,Sub-Saharan Africa,2018,3
 Finland,FIN,Europe & Central Asia,2018,6
 Fiji,FJI,East Asia & Pacific,2018,5
 France,FRA,Europe & Central Asia,2018,4
-Micronesia, Fed. Sts.,FSM,East Asia & Pacific,2018,10
+Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2018,10
 Gabon,GAB,Sub-Saharan Africa,2018,6
 United Kingdom,GBR,Europe & Central Asia,2018,7
 Georgia,GEO,Europe & Central Asia,2018,9
 Ghana,GHA,Sub-Saharan Africa,2018,6
 Guinea,GIN,Sub-Saharan Africa,2018,6
-Gambia, The,GMB,Sub-Saharan Africa,2018,6
+Gambia - The,GMB,Sub-Saharan Africa,2018,6
 Guinea-Bissau,GNB,Sub-Saharan Africa,2018,6
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2018,6
 Greece,GRC,Europe & Central Asia,2018,2
 Grenada,GRD,Latin America & Caribbean,2018,6
 Guatemala,GTM,Latin America & Caribbean,2018,9
 Guyana,GUY,Latin America & Caribbean,2018,3
-Hong Kong SAR, China,HKG,East Asia & Pacific,2018,8
+Hong Kong SAR - China,HKG,East Asia & Pacific,2018,8
 Honduras,HND,Latin America & Caribbean,2018,8
 Croatia,HRV,Europe & Central Asia,2018,5
 Haiti,HTI,Latin America & Caribbean,2018,2
@@ -1017,7 +1017,7 @@ Hungary,HUN,Europe & Central Asia,2018,9
 Indonesia,IDN,East Asia & Pacific,2018,6
 India,IND,South Asia,2018,9
 Ireland,IRL,Europe & Central Asia,2018,7
-Iran, Islamic Rep.,IRN,Middle East & North Africa,2018,2
+Iran - Islamic Rep.,IRN,Middle East & North Africa,2018,2
 Iraq,IRQ,Middle East & North Africa,2018,0
 Iceland,ISL,Europe & Central Asia,2018,4
 Israel,ISR,Middle East & North Africa,2018,6
@@ -1031,7 +1031,7 @@ Kyrgyz Republic,KGZ,Europe & Central Asia,2018,9
 Cambodia,KHM,East Asia & Pacific,2018,10
 Kiribati,KIR,East Asia & Pacific,2018,4
 St. Kitts and Nevis,KNA,Latin America & Caribbean,2018,5
-Korea, Rep.,KOR,East Asia & Pacific,2018,5
+Korea - Rep.,KOR,East Asia & Pacific,2018,5
 Kuwait,KWT,Middle East & North Africa,2018,1
 Lao PDR,LAO,East Asia & Pacific,2018,6
 Lebanon,LBN,Middle East & North Africa,2018,2
@@ -1118,12 +1118,12 @@ Uruguay,URY,Latin America & Caribbean,2018,4
 United States,USA,North America,2018,11
 Uzbekistan,UZB,Europe & Central Asia,2018,6
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2018,5
-Venezuela, RB,VEN,Latin America & Caribbean,2018,1
+Venezuela - RB,VEN,Latin America & Caribbean,2018,1
 Vietnam,VNM,East Asia & Pacific,2018,8
 Vanuatu,VUT,East Asia & Pacific,2018,11
 Samoa,WSM,East Asia & Pacific,2018,9
 Kosovo,XKX,Europe & Central Asia,2018,11
-Yemen, Rep.,YEM,Middle East & North Africa,2018,0
+Yemen - Rep.,YEM,Middle East & North Africa,2018,0
 South Africa,ZAF,Sub-Saharan Africa,2018,5
 Zambia,ZMB,Sub-Saharan Africa,2018,11
 Zimbabwe,ZWE,Sub-Saharan Africa,2018,5
@@ -1144,7 +1144,7 @@ Burkina Faso,BFA,Sub-Saharan Africa,2019,6
 Bangladesh,BGD,South Asia,2019,5
 Bulgaria,BGR,Europe & Central Asia,2019,8
 Bahrain,BHR,Middle East & North Africa,2019,3
-Bahamas, The,BHS,Latin America & Caribbean,2019,6
+Bahamas - The,BHS,Latin America & Caribbean,2019,6
 Bosnia and Herzegovina,BIH,Europe & Central Asia,2019,7
 Belarus,BLR,Europe & Central Asia,2019,3
 Belize,BLZ,Latin America & Caribbean,2019,4
@@ -1161,8 +1161,8 @@ Chile,CHL,Latin America & Caribbean,2019,4
 China,CHN,East Asia & Pacific,2019,4
 Cote d'Ivoire,CIV,Sub-Saharan Africa,2019,6
 Cameroon,CMR,Sub-Saharan Africa,2019,6
-Congo, Dem. Rep.,COD,Sub-Saharan Africa,2019,6
-Congo, Rep.,COG,Sub-Saharan Africa,2019,6
+Congo - Dem. Rep.,COD,Sub-Saharan Africa,2019,6
+Congo - Rep.,COG,Sub-Saharan Africa,2019,6
 Colombia,COL,Latin America & Caribbean,2019,11
 Comoros,COM,Sub-Saharan Africa,2019,6
 Cabo Verde,CPV,Sub-Saharan Africa,2019,1
@@ -1176,7 +1176,7 @@ Denmark,DNK,Europe & Central Asia,2019,8
 Dominican Republic,DOM,Latin America & Caribbean,2019,1
 Algeria,DZA,Middle East & North Africa,2019,2
 Ecuador,ECU,Latin America & Caribbean,2019,1
-Egypt, Arab Rep.,EGY,Middle East & North Africa,2019,5
+Egypt - Arab Rep.,EGY,Middle East & North Africa,2019,5
 Eritrea,ERI,Sub-Saharan Africa,2019,0
 Spain,ESP,Europe & Central Asia,2019,5
 Estonia,EST,Europe & Central Asia,2019,7
@@ -1184,20 +1184,20 @@ Ethiopia,ETH,Sub-Saharan Africa,2019,3
 Finland,FIN,Europe & Central Asia,2019,6
 Fiji,FJI,East Asia & Pacific,2019,5
 France,FRA,Europe & Central Asia,2019,4
-Micronesia, Fed. Sts.,FSM,East Asia & Pacific,2019,10
+Micronesia - Fed. Sts.,FSM,East Asia & Pacific,2019,10
 Gabon,GAB,Sub-Saharan Africa,2019,6
 United Kingdom,GBR,Europe & Central Asia,2019,7
 Georgia,GEO,Europe & Central Asia,2019,9
 Ghana,GHA,Sub-Saharan Africa,2019,6
 Guinea,GIN,Sub-Saharan Africa,2019,6
-Gambia, The,GMB,Sub-Saharan Africa,2019,6
+Gambia - The,GMB,Sub-Saharan Africa,2019,6
 Guinea-Bissau,GNB,Sub-Saharan Africa,2019,6
 Equatorial Guinea,GNQ,Sub-Saharan Africa,2019,6
 Greece,GRC,Europe & Central Asia,2019,2
 Grenada,GRD,Latin America & Caribbean,2019,6
 Guatemala,GTM,Latin America & Caribbean,2019,9
 Guyana,GUY,Latin America & Caribbean,2019,3
-Hong Kong SAR, China,HKG,East Asia & Pacific,2019,8
+Hong Kong SAR - China,HKG,East Asia & Pacific,2019,8
 Honduras,HND,Latin America & Caribbean,2019,8
 Croatia,HRV,Europe & Central Asia,2019,5
 Haiti,HTI,Latin America & Caribbean,2019,2
@@ -1205,7 +1205,7 @@ Hungary,HUN,Europe & Central Asia,2019,9
 Indonesia,IDN,East Asia & Pacific,2019,6
 India,IND,South Asia,2019,9
 Ireland,IRL,Europe & Central Asia,2019,7
-Iran, Islamic Rep.,IRN,Middle East & North Africa,2019,2
+Iran - Islamic Rep.,IRN,Middle East & North Africa,2019,2
 Iraq,IRQ,Middle East & North Africa,2019,0
 Iceland,ISL,Europe & Central Asia,2019,4
 Israel,ISR,Middle East & North Africa,2019,6
@@ -1219,7 +1219,7 @@ Kyrgyz Republic,KGZ,Europe & Central Asia,2019,9
 Cambodia,KHM,East Asia & Pacific,2019,10
 Kiribati,KIR,East Asia & Pacific,2019,4
 St. Kitts and Nevis,KNA,Latin America & Caribbean,2019,5
-Korea, Rep.,KOR,East Asia & Pacific,2019,5
+Korea - Rep.,KOR,East Asia & Pacific,2019,5
 Kuwait,KWT,Middle East & North Africa,2019,1
 Lao PDR,LAO,East Asia & Pacific,2019,6
 Lebanon,LBN,Middle East & North Africa,2019,2
@@ -1306,12 +1306,12 @@ Uruguay,URY,Latin America & Caribbean,2019,4
 United States,USA,North America,2019,11
 Uzbekistan,UZB,Europe & Central Asia,2019,6
 St. Vincent and the Grenadines,VCT,Latin America & Caribbean,2019,5
-Venezuela, RB,VEN,Latin America & Caribbean,2019,1
+Venezuela - RB,VEN,Latin America & Caribbean,2019,1
 Vietnam,VNM,East Asia & Pacific,2019,8
 Vanuatu,VUT,East Asia & Pacific,2019,11
 Samoa,WSM,East Asia & Pacific,2019,9
 Kosovo,XKX,Europe & Central Asia,2019,11
-Yemen, Rep.,YEM,Middle East & North Africa,2019,0
+Yemen - Rep.,YEM,Middle East & North Africa,2019,0
 South Africa,ZAF,Sub-Saharan Africa,2019,5
 Zambia,ZMB,Sub-Saharan Africa,2019,11
 Zimbabwe,ZWE,Sub-Saharan Africa,2019,6
