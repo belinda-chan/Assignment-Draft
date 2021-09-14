@@ -1,0 +1,58 @@
+[
+ {
+   "Country name": "Finland",
+   "Regional indicator": "Western Europe",
+   "Latitude": 61.92411,
+   "Longitude": 25.748151,
+   "Ladder score": 7.808700085,
+   "Rank": 1
+ },
+ {
+   "Country name": "Denmark",
+   "Regional indicator": "Western Europe",
+   "Latitude": 56.26392,
+   "Longitude": 9.501785,
+   "Ladder score": 7.645599842,
+   "Rank": 2
+ },
+ {
+   "Country name": "Switzerland",
+   "Regional indicator": "Western Europe",
+   "Latitude": 46.818188,
+   "Longitude": 8.227512,
+   "Ladder score": 7.559899807,
+   "Rank": 3
+ },
+ {
+   "Country name": "Iceland",
+   "Regional indicator": "Western Europe",
+   "Latitude": 64.963051,
+   "Longitude": -19.020835,
+   "Ladder score": 7.504499912,
+   "Rank": 4
+ },
+ {
+   "Country name": "Norway",
+   "Regional indicator": "Western Europe",
+   "Latitude": 60.472024,
+   "Longitude": 8.468946,
+   "Ladder score": 7.487999916,
+   "Rank": 5
+ },
+ {
+   "Country name": "Netherlands",
+   "Regional indicator": "Western Europe",
+   "Latitude": 52.132633,
+   "Longitude": 5.291266,
+   "Ladder score": 7.448900223,
+   "Rank": 6
+ },
+ {
+   "Country name": "Sweden",
+   "Regional indicator": "Western Europe",
+   "Latitude": 60.128161,
+   "Longitude": 18.643501,
+   "Ladder score": 7.353499889,
+   "Rank": 7
+ }
+]
