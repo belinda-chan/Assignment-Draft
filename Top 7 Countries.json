@@ -1,6 +1,7 @@
 [
  {
    "Country name": "Finland",
+   "Country name and rank": "1. Finland",
    "Regional indicator": "Western Europe",
    "Latitude": 61.92411,
    "Longitude": 25.748151,
@@ -9,6 +10,7 @@
  },
  {
    "Country name": "Denmark",
+   "Country name and rank": "2. Denmark",
    "Regional indicator": "Western Europe",
    "Latitude": 56.26392,
    "Longitude": 9.501785,
@@ -17,6 +19,7 @@
  },
  {
    "Country name": "Switzerland",
+   "Country name and rank": "3. Switzerland",
    "Regional indicator": "Western Europe",
    "Latitude": 46.818188,
    "Longitude": 8.227512,
@@ -25,6 +28,7 @@
  },
  {
    "Country name": "Iceland",
+   "Country name and rank": "4. Iceland",
    "Regional indicator": "Western Europe",
    "Latitude": 64.963051,
    "Longitude": -19.020835,
@@ -33,6 +37,7 @@
  },
  {
    "Country name": "Norway",
+   "Country name and rank": "5. Norway",
    "Regional indicator": "Western Europe",
    "Latitude": 60.472024,
    "Longitude": 8.468946,
@@ -41,6 +46,7 @@
  },
  {
    "Country name": "Netherlands",
+   "Country name and rank": "6. Netherlands",
    "Regional indicator": "Western Europe",
    "Latitude": 52.132633,
    "Longitude": 5.291266,
@@ -49,6 +55,7 @@
  },
  {
    "Country name": "Sweden",
+   "Country name and rank": "7. Sweden",
    "Regional indicator": "Western Europe",
    "Latitude": 60.128161,
    "Longitude": 18.643501,
