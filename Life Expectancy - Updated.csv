@@ -1,0 +1,103 @@
+Country,Rank,Gender,LifeExpect
+Hong Kong,1,Both sexes,85.29
+Japan,2,Both sexes,85.03
+Macao,3,Both sexes,84.68
+Switzerland,4,Both sexes,84.25
+Singapore,5,Both sexes,84.07
+Italy,6,Both sexes,84.01
+Spain,7,Both sexes,83.99
+Australia,8,Both sexes,83.94
+Channel Islands,9,Both sexes,83.6
+Iceland,10,Both sexes,83.52
+South Korea,11,Both sexes,83.5
+Israel,12,Both sexes,83.49
+Sweden,13,Both sexes,83.33
+France,14,Both sexes,83.13
+Martinique,15,Both sexes,83.13
+Malta,16,Both sexes,83.06
+Canada,17,Both sexes,82.96
+Norway,18,Both sexes,82.94
+Ireland,19,Both sexes,82.81
+New Zealand,20,Both sexes,82.8
+Greece,21,Both sexes,82.8
+Luxembourg,22,Both sexes,82.79
+Netherlands,23,Both sexes,82.78
+Guadeloupe,24,Both sexes,82.74
+Portugal,25,Both sexes,82.65
+Finland,26,Both sexes,82.48
+Belgium,27,Both sexes,82.17
+Austria,28,Both sexes,82.05
+Germany,29,Both sexes,81.88
+Slovenia,30,Both sexes,81.85
+United Kingdom,31,Both sexes,81.77
+Réunion,32,Both sexes,81.55
+Cyprus,33,Both sexes,81.51
+Denmark,34,Both sexes,81.4
+Hong Kong,1,Female,88.17
+Japan,2,Female,88.09
+Macao,3,Female,87.62
+Switzerland,4,Female,86.02
+Singapore,5,Female,86.15
+Italy,6,Female,85.97
+Spain,7,Female,86.68
+Australia,8,Female,85.8
+Channel Islands,9,Female,85.31
+Iceland,10,Female,84.9
+South Korea,11,Female,86.42
+Israel,12,Female,84.91
+Sweden,13,Female,84.97
+France,14,Female,85.82
+Martinique,15,Female,86.1
+Malta,16,Female,84.68
+Canada,17,Female,84.74
+Norway,18,Female,84.78
+Ireland,19,Female,84.32
+New Zealand,20,Female,84.38
+Greece,21,Female,85.08
+Luxembourg,22,Female,84.76
+Netherlands,23,Female,84.35
+Guadeloupe,24,Female,85.94
+Portugal,25,Female,85.28
+Finland,26,Female,85.14
+Belgium,27,Female,84.31
+Austria,28,Female,84.19
+Germany,29,Female,84.14
+Slovenia,30,Female,84.44
+United Kingdom,31,Female,83.28
+Réunion,32,Female,84.45
+Cyprus,33,Female,83.45
+Denmark,34,Female,83.27
+Hong Kong,1,Male,82.38
+Japan,2,Male,81.91
+Macao,3,Male,81.73
+Switzerland,4,Male,82.42
+Singapore,5,Male,82.06
+Italy,6,Male,81.9
+Spain,7,Male,81.27
+Australia,8,Male,82.08
+Channel Islands,9,Male,81.82
+Iceland,10,Male,82.15
+South Korea,11,Male,80.46
+Israel,12,Male,81.98
+Sweden,13,Male,81.69
+France,14,Male,80.32
+Martinique,15,Male,79.85
+Malta,16,Male,81.37
+Canada,17,Male,81.15
+Norway,18,Male,81.11
+Ireland,19,Male,81.29
+New Zealand,20,Male,81.2
+Greece,21,Male,80.52
+Luxembourg,22,Male,80.83
+Netherlands,23,Male,81.2
+Guadeloupe,24,Male,79.16
+Portugal,25,Male,79.79
+Finland,26,Male,79.82
+Belgium,27,Male,80
+Austria,28,Male,79.88
+Germany,29,Male,79.62
+Slovenia,30,Male,79.26
+United Kingdom,31,Male,80.22
+Réunion,32,Male,78.52
+Cyprus,33,Male,79.55
+Denmark,34,Male,79.54
