@@ -1,16 +1,33 @@
-﻿Country,Year,2019 Score,2020 Score,2019 Rank,2020 Rank
-Norway,2019,7.82,7.84,1,1
-Finland,2019,7.9,7.93,2,2
-Sweden,2019,8.31,8.13,3,4
-Netherlands,2019,8.63,9.96,4,5
-Denmark,2019,9.87,8.13,5,3
-Switzerland,2019,10.52,10.62,6,8
-New Zealand,2019,10.75,10.69,7,9
-Jamaica,2019,11.13,10.51,8,6
-Belgium,2019,12.07,12.57,9,12
-Costa Rica,2019,12.24,10.53,10,7
-Estonia,2019,12.27,12.61,11,14
-Portugal,2019,12.63,11.83,12,10
-Germany ,2019,14.6,12.16,13,11
-Iceland,2019,14.71,15.12,14,15
-Ireland,2019,15,12.6,15,13
+﻿Country,Year,Score,Rank
+Norway,2019,7.82,1
+Finland,2019,7.9,2
+Sweden,2019,8.31,3
+Netherlands,2019,8.63,4
+Denmark,2019,9.87,5
+Switzerland,2019,10.52,6
+New Zealand,2019,10.75,7
+Jamaica,2019,11.13,8
+Belgium,2019,12.07,9
+Costa Rica,2019,12.24,10
+Estonia,2019,12.27,11
+Portugal,2019,12.63,12
+Germany ,2019,14.6,13
+Iceland,2019,14.71,14
+Ireland,2019,15,15
+Austria,2019,15.33,16
+Norway,2020,7.84,1
+Finland,2020,7.93,2
+Denmark,2020,8.13,3
+Sweden,2020,9.25,4
+Netherlands,2020,9.96,5
+Jamaica,2020,10.51,6
+Costa Rica,2020,10.53,7
+Switzerland,2020,10.62,8
+New Zealand,2020,10.69,9
+Portugal,2020,11.83,10
+Germany ,2020,12.16,11
+Belgium,2020,12.57,12
+Ireland,2020,12.6,13
+Estonia,2020,12.61,14
+Iceland,2020,15.12,15
+Canada,2020,15.29,16
