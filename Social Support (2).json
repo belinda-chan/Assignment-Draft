@@ -1,168 +1,135 @@
 [
  {
    "Country": "Iceland",
-   "Score": 1.671,
-   "Rank": 1
+   "Score": 1.671
  },
  {
    "Country": "Czech Republic",
-   "Score": 3.592,
-   "Rank": 2
+   "Score": 3.592
  },
  {
    "Country": "Finland",
-   "Score": 3.828,
-   "Rank": 3
+   "Score": 3.828
  },
  {
    "Country": "Ireland",
-   "Score": 3.969,
-   "Rank": 4
+   "Score": 3.969
  },
  {
    "Country": "Israel",
-   "Score": 4.071,
-   "Rank": 5
+   "Score": 4.071
  },
  {
    "Country": "Estonia",
-   "Score": 4.186,
-   "Rank": 6
+   "Score": 4.186
  },
  {
    "Country": "Norway",
-   "Score": 4.402,
-   "Rank": 7
+   "Score": 4.402
  },
  {
    "Country": "Lithuania",
-   "Score": 4.418,
-   "Rank": 8
+   "Score": 4.418
  },
  {
    "Country": "Slovak Republic",
-   "Score": 4.558,
-   "Rank": 9
+   "Score": 4.558
  },
  {
    "Country": "Poland",
-   "Score": 4.617,
-   "Rank": 10
+   "Score": 4.617
  },
  {
    "Country": "Slovenia",
-   "Score": 4.641,
-   "Rank": 11
+   "Score": 4.641
  },
  {
    "Country": "New Zealand",
-   "Score": 4.801,
-   "Rank": 12
+   "Score": 4.801
  },
  {
    "Country": "France",
-   "Score": 5.245,
-   "Rank": 13
+   "Score": 5.245
  },
  {
    "Country": "Denmark",
-   "Score": 5.254,
-   "Rank": 14
+   "Score": 5.254
  },
  {
    "Country": "Switzerland",
-   "Score": 5.354,
-   "Rank": 15
+   "Score": 5.354
  },
  {
    "Country": "Netherlands",
-   "Score": 5.582,
-   "Rank": 16
+   "Score": 5.582
  },
  {
    "Country": "Hungary",
-   "Score": 5.632,
-   "Rank": 17
+   "Score": 5.632
  },
  {
    "Country": "United States",
-   "Score": 6.25,
-   "Rank": 18
+   "Score": 6.25
  },
  {
    "Country": "Australia",
-   "Score": 6.334,
-   "Rank": 19
+   "Score": 6.334
  },
  {
    "Country": "Sweden",
-   "Score": 6.44,
-   "Rank": 20
+   "Score": 6.44
  },
  {
    "Country": "Spain",
-   "Score": 6.507,
-   "Rank": 21
+   "Score": 6.507
  },
  {
    "Country": "Canada",
-   "Score": 6.936,
-   "Rank": 22
+   "Score": 6.936
  },
  {
    "Country": "United Kingdom",
-   "Score": 7.032,
-   "Rank": 23
+   "Score": 7.032
  },
  {
    "Country": "Latvia",
-   "Score": 7.137,
-   "Rank": 24
+   "Score": 7.137
  },
  {
    "Country": "Austria",
-   "Score": 7.505,
-   "Rank": 25
+   "Score": 7.505
  },
  {
    "Country": "Germany",
-   "Score": 9.445,
-   "Rank": 26
+   "Score": 9.445
  },
  {
    "Country": "Belgium",
-   "Score": 9.583,
-   "Rank": 27
+   "Score": 9.583
  },
  {
    "Country": "Italy",
-   "Score": 11.001,
-   "Rank": 28
+   "Score": 11.001
  },
  {
    "Country": "Chile",
-   "Score": 11.078,
-   "Rank": 29
+   "Score": 11.078
  },
  {
    "Country": "Japan",
-   "Score": 11.266,
-   "Rank": 30
+   "Score": 11.266
  },
  {
    "Country": "Portugal",
-   "Score": 12.451,
-   "Rank": 31
+   "Score": 12.451
  },
  {
    "Country": "Turkey",
-   "Score": 14.168,
-   "Rank": 32
+   "Score": 14.168
  },
  {
    "Country": "Costa Rica",
-   "Score": 16.374,
-   "Rank":33
+   "Score": 16.374
  },
  {
    "Country": "Korea",
@@ -171,22 +138,18 @@
  },
  {
    "Country": "Colombia",
-   "Score": 20.296,
-   "Rank": 35
+   "Score": 20.296
  },
  {
    "Country": "Mexico",
-   "Score": 21.819,
-   "Rank": 36
+   "Score": 21.819
  },
  {
    "Country": "Greece",
-   "Score": 22.136,
-   "Rank": 37
+   "Score": 22.136
  },
  {
    "Country": "Greece",
-   "Score": 22.136,
-   "Rank": 38
+   "Score": 22.136
  }
 ]
