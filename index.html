@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-responsive-min.css" />
+    <link rel="stylesheet" href="layout.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+   
+    <script src="vega_lite_vis.js"></script>
+
+</head>
+
+<!-- Heading -->
+
+<body>
+    <div class="container-heading"></div>
+    <img src="../Images/Heading.jpg" width="950" height="155"/></body>
+
+        <!-- <h1>The Happiest Countries in the world</h1> -->
+        <div class="container-subheading1">
+        <div class="subheading1"><h2>The Happiness Index 2020</h2></div>
+    </div>
+    
+
+<!-- SECTION 1: World map -->
+
+<div class="pure-g">
+    <div class="pure-u-1-1">
+        <div id="text_div">
+                <p>The World Happiness Report is a landmark survey that ranks the happiness levels of 156 countries based on how happy 
+                    their citizens perceive themselves to be. 
+                <br><br> In the 2020 edition, the World Happiness Report looks at six key variables to evaluate the levels of happiness 
+                around the world, which are: <b>GDP per capita</b>, <b>social support</b>, <b>healthy life expectancy</b>, <b>freedom to make life choices</b>, 
+                <b>generosity</b>, and <b>freedom from corruption</b> (World Happiness Report). 
+                 </p>
+                 <div class="container1"><div id="world_map"></div></div>
+
+
+        </div>
+    </div>
+
+    
+</div>
+
+<!-- SECTION 2: Zoom in map of Europe -->
+
+
+<div class="pure-g">
+    <div class="pure-u-1-1">
+            <img src="../Images/bluebanner.jpg" width="950" height="42"/>
+            <div class="subheading2"><h2>The Happiest countries</h2></div>
+        </div>
+    </div>
+
+    <div>
+        <div class="container-caption1">
+            <div class="caption"><h3>The happiest countries are all located in the same part of the world</h3></div>
+        </div>
+    
+    
+        </div>
+
+
+<div class="container2">
+<div class="pure-g">
+    <div class="pure-u-1-2">
+
+        <div id="europe_map"></div>
+        <!--"title": "Top 7 highest happiness index countries"-->
+
+</div>
+
+
+<div class="pure-u-1-2">
+    <div id="text_div">
+
+        <p>The most happiest countries are located in Europe, more specifically, the Scandinavian region. 
+        <br><br>  Finland is ranked first place as the happiest nation in the world. 
+        Other countries of the region ranked highly as well, with Denmark in second place, Iceland and Norway in fourth and fifth place, 
+        and Sweden as the seventh most happiest country.
+         </p>
+         <img src="../Images/sheep copy.jpg"/>
+    </div>
+</div>
+</div>
+</div>
+
+<!-- SECTION 3: Freedom index -->
+
+<div class="pure-g">
+    <div class="pure-u-1-1">
+        <div class="container">
+            <img src="../Images/bluebanner.jpg" width="950" height="42"/>
+            <div class="subheading3"><h2>Freedom to Make Life Choices</h2></div>
+        </div>
+    </div>
+</div>
+
+<div class="container3">
+<div class="pure-g">
+    <div class="pure-u-1-2">
+
+
+        <h2></h2> <!--Can put subheding text -->
+        <div id="bump_chart">
+    
+        </div>
+    
+    </div>
+    
+    <div class="pure-u-1-2">
+        <div id="text_div">
+
+            <p>The annual European Backpackers Index, compiled by priceoftravel.com, is designed to help money-savy
+            travellers find the cheapest European cities and plan an accurate budget for when they visit. 
+            <br><br> Prices for most things like hostels, transportation and attractions are fixed and certain.
+            However, prices for a 'budget lunch' or a pint of beer can vary depen ding on where you go. The index takes
+            all of these into
+            account to calculate the approximate price of a day in each city, including an overnight stay at a
+            backpacker hostel.
+            <br><br> Here we review the top five cheapest European cities, as featured on the 2018 Index. Review the 
+            complete list of 59 cities at https://www.priceoftravel.com/1979/european- backpacker-index/.
+             </p>
+        </div>
+    
+        </div>
+    
+    </div>
+</div>
+
+<!-- SECTION 4: Corruption -->
+
+    <div class="pure-g">
+        <div class="pure-u-1-1">
+            <div class="container">
+                <img src="../Images/bluebanner.jpg" width="950" height="42"/>
+                <div class="subheading4"><h2>Freedom From Corruption</h2></div>
+            </div>
+        </div>
+    </div>
+
+
+<div class="container4">
+<div class="pure-g">
+    <div class="pure-u-1-2">
+
+        <h2></h2>  <!--Can put subheding text -->
+        <div id="horizontal_bar">
+    
+        </div>
+    
+    </div>
+    
+    <div class="pure-u-1-2">
+        <div id="text_div">
+
+            <p>The annual European Backpackers Index, compiled by priceoftravel.com, is designed to help money-savy
+            travellers find the cheapest European cities and plan an accurate budget for when they visit. 
+            <br><br> Prices for most things like hostels, transportation and attractions are fixed and certain.
+            However, prices for a 'budget lunch' or a pint of beer can vary depen ding on where you go. The index takes
+            all of these into
+            account to calculate the approximate price of a day in each city, including an overnight stay at a
+            backpacker hostel.
+            <br><br> Here we review the top five cheapest European cities, as featured on the 2018 Index. Review the 
+            complete list of 59 cities at https://www.priceoftravel.com/1979/european- backpacker-index/.
+             </p>
+        </div>
+    
+        </div>
+    
+    </div>
+</div>
+
+
+<!--SECION 5: GDP-->
+<div class="pure-g">
+    <div class="pure-u-1-1">
+        <div class="container">
+            <img src="../Images/bluebanner.jpg" width="950" height="42"/>
+            <div class="subheading5"><h2>GDP Per Capita</h2></div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container5">
+<div class="pure-g">
+    <div class="pure-u-1-2">
+
+        <h2></h2>  <!--Can put subheding text -->
+        <div id="gdp_plot">
+    
+        </div>
+    
+    </div>
+    
+    <div class="pure-u-1-2">
+        <div id="text_div">
+
+            <p>The annual European Backpackers Index, compiled by priceoftravel.com, is designed to help money-savy
+            travellers find the cheapest European cities and plan an accurate budget for when they visit. 
+            <br><br> Prices for most things like hostels, transportation and attractions are fixed and certain.
+            However, prices for a 'budget lunch' or a pint of beer can vary depen ding on where you go. The index takes
+            all of these into
+            account to calculate the approximate price of a day in each city, including an overnight stay at a
+            backpacker hostel.
+            <br><br> Here we review the top five cheapest European cities, as featured on the 2018 Index. Review the 
+            complete list of 59 cities at https://www.priceoftravel.com/1979/european- backpacker-index/.
+             </p>
+        </div>
+    
+        </div>
+    
+    </div>
+</div>
+
+<!--SECION 6: Life expectancy-->
+
+<div class="pure-g">
+    <div class="pure-u-1-1">
+        <div class="container">
+            <img src="../Images/bluebanner.jpg" width="950" height="42"/>
+            <div class="subheading6"><h2>Healthy Life Expectancy</h2></div>
+        </div>
+    </div>
+</div>
+
+<div class="container6">
+<div class="pure-g">
+    <div class="pure-u-1-2">
+
+        <h2></h2> <!--Can put subheding text -->
+        <div id="connect_dp">
+    
+        </div>
+    
+    </div>
+    
+    <div class="pure-u-1-2">
+        <div id="text_div">
+
+            <p>The annual European Backpackers Index, compiled by priceoftravel.com, is designed to help money-savy
+            travellers find the cheapest European cities and plan an accurate budget for when they visit. 
+            <br><br> Prices for most things like hostels, transportation and attractions are fixed and certain.
+            However, prices for a 'budget lunch' or a pint of beer can vary depen ding on where you go. The index takes
+            all of these into
+            account to calculate the approximate price of a day in each city, including an overnight stay at a
+            backpacker hostel.
+            <br><br> Here we review the top five cheapest European cities, as featured on the 2018 Index. Review the 
+            complete list of 59 cities at https://www.priceoftravel.com/1979/european- backpacker-index/.
+             </p>
+        </div>
+    
+        </div>
+    
+    </div>
+</div>
+
+
+<!--SECION 7: Social Support-->
+
+<div class="pure-g">
+    <div class="pure-u-1-1">
+        <div class="container">
+            <img src="../Images/bluebanner.jpg" width="950" height="42"/>
+            <div class="subheading7"><h2>Social Support</h2></div>
+        </div>
+    </div>
+</div>
+
+<div class="container7">
+    <div class="pure-g">
+        <div class="pure-u-1-2">
+    
+            <div id="dot_plot"></div>
+    
+    </div>
+    
+    <div class="pure-u-1-2">
+        <div id="text_div">
+    
+            <p>The annual European Backpackers Index, compiled by priceoftravel.com, is designed to help money-savy
+            travellers find the cheapest European cities and plan an accurate budget for when they visit. 
+            <br><br> Prices for most things like hostels, transportation and attractions are fixed and certain.
+            However, prices for a 'budget lunch' or a pint of beer can vary depen ding on where you go. The index takes
+            all of these into
+            account to calculate the approximate price of a day in each city, including an overnight stay at a
+            backpacker hostel.
+            <br><br> Here we review the top five cheapest European cities, as featured on the 2018 Index. Review the 
+            complete list of 59 cities at https://www.priceoftravel.com/1979/european- backpacker-index/.
+             </p>
+        </div>
+    
+    
+    </div>
+</div>
+</div>
+
+
+<!--SECION 8: Generosity-->
+
+<div class="pure-g">
+    <div class="pure-u-1-1">
+        <div class="container">
+            <img src="../Images/bluebanner.jpg" width="950" height="42"/>
+            <div class="subheading8"><h2>Generosity</h2></div>
+        </div>
+    </div>
+</div>
+
+<div class="container7">
+    <div class="pure-g">
+        <div class="pure-u-1-2">
+    
+            <h2></h2><!--Can put subheding text -->
+            <div id="generosity_bar">
+        
+            </div>
+        
+        </div>
+        
+        <div class="pure-u-1-2">
+            <div id="text_div">
+    
+                <p>The annual European Backpackers Index, compiled by priceoftravel.com, is designed to help money-savy
+                travellers find the cheapest European cities and plan an accurate budget for when they visit. 
+                <br><br> Prices for most things like hostels, transportation and attractions are fixed and certain.
+                However, prices for a 'budget lunch' or a pint of beer can vary depen ding on where you go. The index takes
+                all of these into
+                account to calculate the approximate price of a day in each city, including an overnight stay at a
+                backpacker hostel.
+                <br><br> Here we review the top five cheapest European cities, as featured on the 2018 Index. Review the 
+                complete list of 59 cities at https://www.priceoftravel.com/1979/european- backpacker-index/.
+                 </p>
+            </div>
+        
+            </div>
+        
+        </div>
+    </div>
+    
+
+</body>
+
+</html>
