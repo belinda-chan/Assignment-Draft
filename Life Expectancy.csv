@@ -1,103 +1,60 @@
-Country,Rank,Gender,LifeExpect
-Hong Kong,1,Both sexes,85.29
-Japan,2,Both sexes,85.03
-Macao,3,Both sexes,84.68
-Switzerland,4,Both sexes,84.25
-Singapore,5,Both sexes,84.07
-Italy,6,Both sexes,84.01
-Spain,7,Both sexes,83.99
-Australia,8,Both sexes,83.94
-Channel Islands,9,Both sexes,83.6
-Iceland,10,Both sexes,83.52
-South Korea,11,Both sexes,83.5
-Israel,12,Both sexes,83.49
-Sweden,13,Both sexes,83.33
-France,14,Both sexes,83.13
-Martinique,15,Both sexes,83.13
-Malta,16,Both sexes,83.06
-Canada,17,Both sexes,82.96
-Norway,18,Both sexes,82.94
-Ireland,19,Both sexes,82.81
-New Zealand,20,Both sexes,82.8
-Greece,21,Both sexes,82.8
-Luxembourg,22,Both sexes,82.79
-Netherlands,23,Both sexes,82.78
-Guadeloupe,24,Both sexes,82.74
-Portugal,25,Both sexes,82.65
-Finland,26,Both sexes,82.48
-Belgium,27,Both sexes,82.17
-Austria,28,Both sexes,82.05
-Germany,29,Both sexes,81.88
-Slovenia,30,Both sexes,81.85
-United Kingdom,31,Both sexes,81.77
-Réunion,32,Both sexes,81.55
-Cyprus,33,Both sexes,81.51
-Denmark,34,Both sexes,81.4
-Hong Kong,1,Female,88.17
-Japan,2,Female,88.09
-Macao,3,Female,87.62
-Switzerland,4,Female,86.02
-Singapore,5,Female,86.15
-Italy,6,Female,85.97
-Spain,7,Female,86.68
-Australia,8,Female,85.8
-Channel Islands,9,Female,85.31
-Iceland,10,Female,84.9
-South Korea,11,Female,86.42
-Israel,12,Female,84.91
-Sweden,13,Female,84.97
-France,14,Female,85.82
-Martinique,15,Female,86.1
-Malta,16,Female,84.68
-Canada,17,Female,84.74
-Norway,18,Female,84.78
-Ireland,19,Female,84.32
-New Zealand,20,Female,84.38
-Greece,21,Female,85.08
-Luxembourg,22,Female,84.76
-Netherlands,23,Female,84.35
-Guadeloupe,24,Female,85.94
-Portugal,25,Female,85.28
-Finland,26,Female,85.14
-Belgium,27,Female,84.31
-Austria,28,Female,84.19
-Germany,29,Female,84.14
-Slovenia,30,Female,84.44
-United Kingdom,31,Female,83.28
-Réunion,32,Female,84.45
-Cyprus,33,Female,83.45
-Denmark,34,Female,83.27
-Hong Kong,1,Male,82.38
-Japan,2,Male,81.91
-Macao,3,Male,81.73
-Switzerland,4,Male,82.42
-Singapore,5,Male,82.06
-Italy,6,Male,81.9
-Spain,7,Male,81.27
-Australia,8,Male,82.08
-Channel Islands,9,Male,81.82
-Iceland,10,Male,82.15
-South Korea,11,Male,80.46
-Israel,12,Male,81.98
-Sweden,13,Male,81.69
-France,14,Male,80.32
-Martinique,15,Male,79.85
-Malta,16,Male,81.37
-Canada,17,Male,81.15
-Norway,18,Male,81.11
-Ireland,19,Male,81.29
-New Zealand,20,Male,81.2
-Greece,21,Male,80.52
-Luxembourg,22,Male,80.83
-Netherlands,23,Male,81.2
-Guadeloupe,24,Male,79.16
-Portugal,25,Male,79.79
-Finland,26,Male,79.82
-Belgium,27,Male,80
-Austria,28,Male,79.88
-Germany,29,Male,79.62
-Slovenia,30,Male,79.26
-United Kingdom,31,Male,80.22
-Réunion,32,Male,78.52
-Cyprus,33,Male,79.55
-Denmark,34,Male,79.54
+﻿Country,Region,Female,Male
+Hong Kong,Asia,88.17,82.38
+Japan,Asia,88.09,81.91
+Macao,Asia ,87.62,81.73
+Switzerland,Europe,86.02,82.42
+Singapore,Asia,86.15,82.06
+Italy,Europe,85.97,81.9
+Spain,Europe,86.68,81.27
+Australia,Oceania,85.8,82.08
+Channel Islands,Europe,85.31,81.82
+Iceland,Europe,84.9,82.15
+South Korea,Asia,86.42,80.46
+Israel,Middle East,84.91,81.98
+Sweden,Europe,84.97,81.69
+France,Europe,85.82,80.32
+Martinique,North America,86.1,79.85
+Malta,Europe,84.68,81.37
+Canada,North America,84.74,81.15
+Norway,Europe,84.78,81.11
+Ireland,Europe,84.32,81.29
+New Zealand,Oceania,84.38,81.2
+Greece,Europe,85.08,80.52
+Luxembourg,Europe,84.76,80.83
+Netherlands,Europe,84.35,81.2
+Guadeloupe,North America,85.94,79.16
+Portugal,Europe,85.28,79.79
+Finland,Europe,85.14,79.82
+Belgium,Europe,84.31,80
+Austria,Europe,84.19,79.88
+Germany,Europe,84.14,79.62
+Slovenia,Europe,84.44,79.26
+United Kingdom,Europe,83.28,80.22
+Réunion,Africa,84.45,78.52
+Cyprus,Middle East,83.45,79.55
+Denmark,Europe,83.27,79.54
+U.S. Virgin Islands,North America,83.52,78.64
+Taiwan,Asia ,83.64,78.49
+Costa Rica,North America,83.39,78.53
+Chile,South America,82.8,78.54
+Guam,Oceania,83.98,77.63
+Qatar,Middle East,82.49,79.78
+Puerto Rico,North America,83.92,77.27
+French Guiana,South America,83.38,77.8
+Maldives,Asia,81.58,78.53
+Mayotte,Africa,83.24,76.62
+Czech Republic (Czechia),Europe,82.35,77.33
+Barbados,North America,80.85,78.36
+Curaçao,South America,82.08,76.42
+Poland,Europe,82.98,75.51
+Lebanon,Middle East,81.17,77.53
+Estonia,Europe,83.06,74.98
+Cuba,North America,81.12,77.25
+United States,North America,81.65,76.61
+Panama,North America,82.2,76.14
+Croatia,Europe,82.02,75.95
+Albania,Europe,80.48,77.48
+Oman,Middle East,80.94,76.9
+United Arab Emirates,Middle East,78.46,79.8
+Turkey,Middle East,78.45,81.21
+Uruguay,South America,78.43,81.88
