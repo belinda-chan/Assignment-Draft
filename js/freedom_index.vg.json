@@ -41,7 +41,6 @@
       {
       "params": [{
         "name": "hover",
-        "value": [{"Country": "Denmark"}],
         "select": {
           "type": "point",
           "fields": ["Country"],
