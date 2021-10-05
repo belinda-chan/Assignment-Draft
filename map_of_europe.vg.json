@@ -1,0 +1,107 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {"text":"Top 7 Happiest Countries - Western & Central Europe 2020", "font": "Lato","color": "gray", "anchor": "start"},
+    "width": 425,
+    "height": 420,
+    "background": "#f3fafa",
+    "config": {"view": {"fill": "#f3fafa", "stroke":null}},
+    
+    "data": {
+      "url": "https://raw.githubusercontent.com/belinda-chan/Assignment2/main/data/euro.json",
+      "format": {
+        "type": "topojson",
+        "feature": "euro"
+      }
+    },
+    "transform": [{
+      "lookup": "properties.name",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/belinda-chan/Assignment2/main/data/Top%207%20Countries.json"
+        },
+        "key": "Country name",
+        "fields": ["Rank", "Ladder score"]
+      }
+    }],
+    "projection": {
+      "type": "azimuthalEqualArea"
+    }, "layer":[{
+  "mark": {"stroke": "lightgray", "type": "geoshape", "strokeWidth": 0.75},
+  "encoding": {
+      "color": {
+        "field": "Rank", 
+        "type": "ordinal",
+        "legend": null,
+        "scale": {"domain": [1,2,3,4,5,6,7], "range": ["#F4F49c","#F5eF99","#BFEAEA","#fae893","#fae894","#BFEAEA","#fce291"]},
+        "condition": {"test": "datum['Rank'] < 0.1", "value": "#E8EBEB"}
+        },
+        "tooltip": [
+   {"field": "properties.name", "type": "nominal", "title": "Country name"},
+   {"field": "Ladder score", "type": "quantitative", "format": ".2f"}
+   ]
+        }
+      },
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/belinda-chan/Assignment2/main/data/Top%207%20Countries.json"
+        },
+        "encoding": {
+          "longitude": {
+            "field": "Longitude",
+            "type": "quantitative"
+          },
+          "latitude": {
+            "field": "Latitude",
+            "type": "quantitative"
+          }
+        },
+        "layer": [{
+          "mark": {
+            "type": "text",
+            "font": "Lato",  
+            "dy": 10
+          },
+          "encoding": {
+            "text": {"field": "Country name"}
+          }
+        }]
+      },
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/belinda-chan/Assignment2/main/data/Top%207%20Countries.json"
+        },
+        "encoding": {
+          "longitude": {
+            "field": "Longitude",
+            "type": "quantitative"
+          },
+          "latitude": {
+            "field": "Latitude",
+            "type": "quantitative"
+          }
+        },
+        "layer": [{
+          "mark": {
+            "type": "text",
+            "font": "Lato",  
+            "fontSize": 23,
+            "color": "#48eff5",
+            "dy": -3
+          },
+          "encoding": {
+            "text": {"field": "Rank"},
+            "color": {
+            "condition": {"test": "datum.Rank == 3 || datum.Rank == 6", "value": "grey"},
+            "value": "#F5487D"
+          }
+          }
+        }]
+      }
+    ]
+  }
+  
+  
+  
+  
+  
+  

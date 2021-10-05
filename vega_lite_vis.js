@@ -3,7 +3,7 @@ vegaEmbed("#world_map", spec2).then(function(result) {
  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 
-var spec2 = "europe_map.vg.json";
+var spec2 = "map_of_europe.vg.json";
 vegaEmbed("#europe_map", spec2).then(function(result) {
  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
