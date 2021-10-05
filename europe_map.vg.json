@@ -1,21 +1,16 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": {"text":"The Happiest Countries", "font": "Lato","color": "gray", "anchor": "start"},
+    "title": {"text":"Top 7 Happiest Countries - Western & Central Europe 2020", "font": "Lato","color": "gray", "anchor": "start"},
     "width": 425,
     "height": 420,
     "background": "#f3fafa",
-    "view": {"fill": "#f3fafa"},
-    "config": {
-        "view": {
-           "stroke": "transparent"
-        }
-      },
+    "config": {"view": {"fill": "#f3fafa", "stroke":null}},
     
     "data": {
-      "url": "https://raw.githubusercontent.com/belinda-chan/Assignment2/main/data/Top%207%20Countries%20Map.json",
+      "url": "https://raw.githubusercontent.com/belinda-chan/Assignment2/main/data/euro.json",
       "format": {
         "type": "topojson",
-        "feature": "custom.geo (8)"
+        "feature": "euro"
       }
     },
     "transform": [{
@@ -29,7 +24,7 @@
       }
     }],
     "projection": {
-      "type": "equirectangular"
+      "type": "azimuthalEqualArea"
     }, "layer":[{
   "mark": {"stroke": "lightgray", "type": "geoshape", "strokeWidth": 0.75},
   "encoding": {
@@ -89,9 +84,9 @@
           "mark": {
             "type": "text",
             "font": "Lato",  
-            "fontSize": 25,
+            "fontSize": 23,
             "color": "#48eff5",
-            "dy": -7
+            "dy": -3
           },
           "encoding": {
             "text": {"field": "Rank"},
